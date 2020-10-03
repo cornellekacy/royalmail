@@ -1,0 +1,2944 @@
+Uri: https://www.royalmail.com/
+File Name: c:\Downloaded Web Sites\royalmail.com\index.htm
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2020-04/thumbs_up_banner_v1.jpg?h=2ed0bb2e&amp;itok=j9o8NNgx
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2020-04\thumbs_up_banner_v1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2020-04/thumbs_up_banner_v1.jpg?h=2ed0bb2e&amp;itok=67zxW5ow
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2020-04\thumbs_up_banner_v1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2020-04/thumbs_up_banner_v1.jpg?h=2ed0bb2e&amp;itok=supot6ev
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2020-04\thumbs_up_banner_v1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/rml_background/public/2020-03/coronavirus-homepage-1440x960.jpg?h=170ba4b8&amp;itok=B10elRWO
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\rml_background\public\2020-03\coronavirus-homepage-1440x960.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/600_x_400/public/2020-03/coronavirus-homepage-600x400.jpg?h=252f27fa&amp;itok=gXi_h1H2
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\600_x_400\public\2020-03\coronavirus-homepage-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2020-03/coronavirus-homepage-1024x452.jpg?h=9865755e&amp;itok=CbfahYoD
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2020-03\coronavirus-homepage-1024x452.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/favicon.ico
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_GbyBld2YVfGaoHcw3eZJtGlhAxDTBpV3xkP06qLMwBI.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_GbyBld2YVfGaoHcw3eZJtGlhAxDTBpV3xkP06qLMwBI.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_L1CHhA8RiQ4OSTBxdXMeXBcVpfMhzGcvCgDvpSYfQ1g.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_L1CHhA8RiQ4OSTBxdXMeXBcVpfMhzGcvCgDvpSYfQ1g.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/business
+File Name: c:\Downloaded Web Sites\royalmail.com\business.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/services-near-you
+File Name: c:\Downloaded Web Sites\royalmail.com\services-near-you.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/user/login
+File Name: c:\Downloaded Web Sites\royalmail.com\user\login.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/search
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\search.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending
+File Name: c:\Downloaded Web Sites\royalmail.com\sending.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/find-a-postcode
+File Name: c:\Downloaded Web Sites\royalmail.com\find-a-postcode.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/uk/special-delivery-guaranteed-9am
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk\special-delivery-guaranteed-9am.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/uk/special-delivery-guaranteed-1pm
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk\special-delivery-guaranteed-1pm.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/uk/tracked-24
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk\tracked-24.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/uk/tracked-48
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk\tracked-48.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/uk/1st-class
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk\1st-class.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/uk/2nd-class
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk\2nd-class.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/uk/sameday
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk\sameday.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/uk
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/international/international-tracked-signed
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\international\international-tracked-signed.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/international/international-tracked
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\international\international-tracked.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/international/international-standard
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\international\international-standard.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/international/country-guides
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\international\country-guides.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/international
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\international.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/shipping
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/receiving-mail/redelivery
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\receiving-mail\redelivery.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/receiving-mail/pay-a-fee
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\receiving-mail\pay-a-fee.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/receiving-mail/redirection
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\receiving-mail\redirection.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/receiving/keepsafe
+File Name: c:\Downloaded Web Sites\royalmail.com\receiving\keepsafe.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/receiving/po-box
+File Name: c:\Downloaded Web Sites\royalmail.com\receiving\po-box.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/receiving
+File Name: c:\Downloaded Web Sites\royalmail.com\receiving.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/stamps
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\stamps.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/coronavirus
+File Name: c:\Downloaded Web Sites\royalmail.com\coronavirus.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/downloadapp
+File Name: c:\Downloaded Web Sites\royalmail.com\downloadapp.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/coronavirus?iid=HP_M1_CORONAVIRUS
+File Name: c:\Downloaded Web Sites\royalmail.com\coronavirus-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/downloadapp?iid=HP_M2_1_BUYPOSTAGEAPP
+File Name: c:\Downloaded Web Sites\royalmail.com\downloadapp-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/priority-postboxes?iid=HP_M2_2_CVDELIVERINGCOUNTRY
+File Name: c:\Downloaded Web Sites\royalmail.com\priority-postboxes.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/coronavirus-delivering-country?iid=HP_M2_3_CVDELIVERINGCOUNTRY
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\coronavirus-delivering-country.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending?iid=HP_M3_1_SENDING
+File Name: c:\Downloaded Web Sites\royalmail.com\sending-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer?iid=HP_M3_2_RETURNS
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/receiving-mail/redelivery?iid=HP_M3_3_REDELIVERY
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\receiving-mail\redelivery-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/thumbsup?iid=HP_M4_THUMBSUP
+File Name: c:\Downloaded Web Sites\royalmail.com\thumbsup.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business?iid=HP_M5_1_BUSINESSHP
+File Name: c:\Downloaded Web Sites\royalmail.com\business-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/price-finder
+File Name: c:\Downloaded Web Sites\royalmail.com\price-finder.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/current-postage-prices
+File Name: c:\Downloaded Web Sites\royalmail.com\current-postage-prices.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/tools-services/retail-sell-stamps
+File Name: c:\Downloaded Web Sites\royalmail.com\business\tools-services\retail-sell-stamps.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/terms-and-conditions
+File Name: c:\Downloaded Web Sites\royalmail.com\terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/privacy-notice
+File Name: c:\Downloaded Web Sites\royalmail.com\privacy-notice.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/terms-website
+File Name: c:\Downloaded Web Sites\royalmail.com\terms-website.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/cookies-policy
+File Name: c:\Downloaded Web Sites\royalmail.com\cookies-policy.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/cymraeg
+File Name: c:\Downloaded Web Sites\royalmail.com\cymraeg.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1
+File Name: c:\Downloaded Web Sites\royalmail.com\core\assets\vendor\modernizr\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/logo.png
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\logo.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-05/buy-postage.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-05\buy-postage.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/check-an-address.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\check-an-address.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/location.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\location.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-05/mail-services.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-05\mail-services.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2020-01/app-postbox-finder-350x292.jpg?itok=_GDUnzQC
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2020-01\app-postbox-finder-350x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2020-03/nhs_350x292.jpg?h=5e49a60d&itok=IElPoTCr
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2020-03\nhs_350x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2020-04/delivering_thumbnail_2_350_0.jpg?h=5e49a60d&itok=J3G9E9jw
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2020-04\delivering_thumbnail_2_350_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_wYk05JcsZg_GqgqdZDHvOjM9-LGEl_ZYcpJLsCmMn7o.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_wYk05JcsZg_GqgqdZDHvOjM9-LGEl_ZYcpJLsCmMn7o.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_7ENv3XlXzlYLj0LCIQUni-NP2MuSlHrMby2wJIjiRO4.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_7ENv3XlXzlYLj0LCIQUni-NP2MuSlHrMby2wJIjiRO4.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_mJGb3KtKrEbjBCYAIdE5JNfTukY2dYkvqJL-Fk5DYO8.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_mJGb3KtKrEbjBCYAIdE5JNfTukY2dYkvqJL-Fk5DYO8.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/throbber-active.gif
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\throbber-active.gif
+Content Type: image/gif
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/loading-small.gif
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\loading-small.gif
+Content Type: image/gif
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/throbber-inactive.png
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\throbber-inactive.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/icons/e32700/error.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\icons\e32700\error.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/icons/e29700/warning.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\icons\e29700\warning.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/icons/73b355/check.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\icons\73b355\check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/icons/787878/move.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\icons\787878\move.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/icons/000000/move.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\icons\000000\move.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/icons/787878/twistie-down.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\icons\787878\twistie-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/icons/787878/twistie-up.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\icons\787878\twistie-up.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/tree.png
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\tree.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/core/themes/stable/images/core/tree-bottom.png
+File Name: c:\Downloaded Web Sites\royalmail.com\core\themes\stable\images\core\tree-bottom.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons/cross.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons\cross.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_444444_256x240.png
+File Name: c:\Downloaded Web Sites\royalmail.com\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_555555_256x240.png
+File Name: c:\Downloaded Web Sites\royalmail.com\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: c:\Downloaded Web Sites\royalmail.com\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_777620_256x240.png
+File Name: c:\Downloaded Web Sites\royalmail.com\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: c:\Downloaded Web Sites\royalmail.com\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_777777_256x240.png
+File Name: c:\Downloaded Web Sites\royalmail.com\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/PF_DIN_Regular/PF_DIN_Regular.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\PF_DIN_Regular\PF_DIN_Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/PF_DIN_Regular/PF_DIN_Regular.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\PF_DIN_Regular\PF_DIN_Regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/PF_DIN_Regular/PF_DIN_Regular.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\PF_DIN_Regular\PF_DIN_Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/PF_DIN_Regular/PF_DIN_Regular.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\PF_DIN_Regular\PF_DIN_Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-ultra-light/din-next-w01-ultra-light.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-ultra-light\din-next-w01-ultra-light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-ultra-light/din-next-w01-ultra-light.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-ultra-light\din-next-w01-ultra-light.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-ultra-light/din-next-w01-ultra-light.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-ultra-light\din-next-w01-ultra-light.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-ultra-light/din-next-w01-ultra-light.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-ultra-light\din-next-w01-ultra-light.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-ultra-light-italic/din-next-w01-ultra-light-italic.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-ultra-light-italic\din-next-w01-ultra-light-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-ultra-light-italic/din-next-w01-ultra-light-italic.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-ultra-light-italic\din-next-w01-ultra-light-italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-ultra-light-italic/din-next-w01-ultra-light-italic.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-ultra-light-italic\din-next-w01-ultra-light-italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-ultra-light-italic/din-next-w01-ultra-light-italic.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-ultra-light-italic\din-next-w01-ultra-light-italic.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-regular/din-next-w01-regular.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-regular\din-next-w01-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-regular/din-next-w01-regular.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-regular\din-next-w01-regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-regular/din-next-w01-regular.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-regular\din-next-w01-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-regular/din-next-w01-regular.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-regular\din-next-w01-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-regular-italic/din-next-w01-regular-italic.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-regular-italic\din-next-w01-regular-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-regular-italic/din-next-w01-regular-italic.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-regular-italic\din-next-w01-regular-italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-regular-italic/din-next-w01-regular-italic.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-regular-italic\din-next-w01-regular-italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-regular-italic/din-next-w01-regular-italic.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-regular-italic\din-next-w01-regular-italic.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-bold/din-next-w01-bold.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-bold\din-next-w01-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-bold/din-next-w01-bold.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-bold\din-next-w01-bold.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-bold/din-next-w01-bold.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-bold\din-next-w01-bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-bold/din-next-w01-bold.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-bold\din-next-w01-bold.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-bold-italic/din-next-w01-bold-italic.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-bold-italic\din-next-w01-bold-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-bold-italic/din-next-w01-bold-italic.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-bold-italic\din-next-w01-bold-italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-bold-italic/din-next-w01-bold-italic.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-bold-italic\din-next-w01-bold-italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/din-next-w01/din-next-w01-bold-italic/din-next-w01-bold-italic.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\din-next-w01\din-next-w01-bold-italic\din-next-w01-bold-italic.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-thin/chevin-thin.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-thin\chevin-thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-thin/chevin-thin.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-thin\chevin-thin.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-thin/chevin-thin.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-thin\chevin-thin.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-thin-italic/chevin-thin-italic.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-thin-italic\chevin-thin-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-thin-italic/chevin-thin-italic.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-thin-italic\chevin-thin-italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-thin-italic/chevin-thin-italic.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-thin-italic\chevin-thin-italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-light/chevin-light.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-light\chevin-light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-light/chevin-light.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-light\chevin-light.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-light/chevin-light.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-light\chevin-light.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-light-italic/chevin-light-italic.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-light-italic\chevin-light-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-light-italic/chevin-light-italic.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-light-italic\chevin-light-italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-light-italic/chevin-light-italic.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-light-italic\chevin-light-italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-medium/chevin-medium.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-medium\chevin-medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-medium/chevin-medium.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-medium\chevin-medium.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-medium-italic/chevin-medium-italic.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-medium-italic\chevin-medium-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-medium-italic/chevin-medium-italic.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-medium-italic\chevin-medium-italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-medium-italic/chevin-medium-italic.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-medium-italic\chevin-medium-italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-demibold/chevin-demibold.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-demibold\chevin-demibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-demibold/chevin-demibold.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-demibold\chevin-demibold.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-demibold-italic/chevin-demibold-italic.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-demibold-italic\chevin-demibold-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-demibold-italic/chevin-demibold-italic.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-demibold-italic\chevin-demibold-italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-demibold-italic/chevin-demibold-italic.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-demibold-italic\chevin-demibold-italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-bold/chevin-bold.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-bold\chevin-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-bold/chevin-bold.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-bold\chevin-bold.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-bold/chevin-bold.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-bold\chevin-bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-bold-italic/chevin-bold-italic.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-bold-italic\chevin-bold-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-bold-italic/chevin-bold-italic.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-bold-italic\chevin-bold-italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-bold-italic/chevin-bold-italic.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-bold-italic\chevin-bold-italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-extrabold/chevin-extrabold.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-extrabold\chevin-extrabold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-extrabold/chevin-extrabold.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-extrabold\chevin-extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-extrabold/chevin-extrabold.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-extrabold\chevin-extrabold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-extrabold-italic/chevin-extrabold-italic.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-extrabold-italic\chevin-extrabold-italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-extrabold-italic/chevin-extrabold-italic.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-extrabold-italic\chevin-extrabold-italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/fonts/chevin/chevin-extrabold-italic/chevin-extrabold-italic.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\fonts\chevin\chevin-extrabold-italic\chevin-extrabold-italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_png/tick-white.png
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_png\tick-white.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/arrow-red.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\arrow-red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/chevron-down-white.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\chevron-down-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/chevron-up-white.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\chevron-up-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/textures/rml-textured-background.png
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\textures\rml-textured-background.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/tick-green.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\tick-green.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/file-red.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\file-red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/modules/custom/rml_branch_finder/images/branch-finder-promo-image.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\modules\custom\rml_branch_finder\images\branch-finder-promo-image.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/cross-red.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\cross-red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/chevron-red.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\chevron-red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons/cancel.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons\cancel.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/information-yellow.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\information-yellow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/information-blue.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\information-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/tip-blue.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\tip-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/exclamation-red-triangle.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\exclamation-red-triangle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/chevron-down.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/chevron-down-red.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\chevron-down-red.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_png/tools-white.png
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_png\tools-white.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_png/help-white.png
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_png\help-white.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/images/logos/keep-me-posted.png
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\images\logos\keep-me-posted.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/close-jaguar.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\close-jaguar.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/arrow-left-grey.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\arrow-left-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/search-white.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\search-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/mail-services-grey.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\mail-services-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/images/logos/delivery-office.png
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\images\logos\delivery-office.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/images/logos/postoffice.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\images\logos\postoffice.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/images/logos/parcelforce.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\images\logos\parcelforce.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/images/logos/postbox.png
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\images\logos\postbox.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/images/logos/parcel-postbox.png
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\images\logos\parcel-postbox.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/icons_fill/arrow-white.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\icons_fill\arrow-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/node_modules/slick-carousel/slick/ajax-loader.gif
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\node_modules\slick-carousel\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/node_modules/slick-carousel/slick/fonts/slick.eot
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\node_modules\slick-carousel\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/node_modules/slick-carousel/slick/fonts/slick.woff
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\node_modules\slick-carousel\slick\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/node_modules/slick-carousel/slick/fonts/slick.ttf
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\node_modules\slick-carousel\slick\fonts\slick.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.royalmail.com/themes/custom/rmlcwr/node_modules/slick-carousel/slick/fonts/slick.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\themes\custom\rmlcwr\node_modules\slick-carousel\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-09/hwdc_mail_centre_processing_machinery1440x292_0.jpg?itok=17zeJDx6
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-09\hwdc_mail_centre_processing_machinery1440x292_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-09/hwdc_mail_centre_processing_machinery1440x292_0.jpg?itok=j-soBuR2
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-09\hwdc_mail_centre_processing_machinery1440x292_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-09/hwdc_mail_centre_processing_machinery1440x292_0.jpg?itok=u7R8HKI6
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-09\hwdc_mail_centre_processing_machinery1440x292_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/rml_background/public/2020-03/coronavirus_business_230320_0.jpg?h=170ba4b8&amp;itok=ARAWAk6X
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\rml_background\public\2020-03\coronavirus_business_230320_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/600_x_400/public/2020-03/coronavirus_600x400.jpg?h=252f27fa&amp;itok=ZOCxbv7o
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\600_x_400\public\2020-03\coronavirus_600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2020-03/coronavirus_business_1024x452.jpg?h=9865755e&amp;itok=cFJZ6tn4
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2020-03\coronavirus_business_1024x452.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/business/user/login
+File Name: c:\Downloaded Web Sites\royalmail.com\business\user\login.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/user/register
+File Name: c:\Downloaded Web Sites\royalmail.com\business\user\register.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/get-going
+File Name: c:\Downloaded Web Sites\royalmail.com\business\get-going.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/delivery-solutions
+File Name: c:\Downloaded Web Sites\royalmail.com\business\delivery-solutions.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/shipping-solutions
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\shipping-solutions.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/sending-guide
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\sending-guide.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/shipping/online-mail-supplies
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\online-mail-supplies.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/mail
+File Name: c:\Downloaded Web Sites\royalmail.com\business\mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/mail/business-mail
+File Name: c:\Downloaded Web Sites\royalmail.com\business\mail\business-mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/mail/replies-responses
+File Name: c:\Downloaded Web Sites\royalmail.com\business\mail\replies-responses.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/corporate/electoral-services/
+File Name: c:\Downloaded Web Sites\royalmail.com\corporate\electoral-services\index.htm
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/shipping/uk-services
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\uk-services.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/international
+File Name: c:\Downloaded Web Sites\royalmail.com\business\international.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/international/services
+File Name: c:\Downloaded Web Sites\royalmail.com\business\international\services.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/international/export
+File Name: c:\Downloaded Web Sites\royalmail.com\business\international\export.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/international/guide
+File Name: c:\Downloaded Web Sites\royalmail.com\business\international\guide.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/marketing
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/marketing/direct-mail
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing\direct-mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/marketing/advertising-mail
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing\advertising-mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/marketing/mail/door-to-door
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing\mail\door-to-door.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business-marketing/special-offers
+File Name: c:\Downloaded Web Sites\royalmail.com\business-marketing\special-offers.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/marketing/data
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing\data.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/marketing/data/cleansing
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing\data\cleansing.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/marketing/data/capture
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing\data\capture.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/marketing/data/buy-marketing-data
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing\data\buy-marketing-data.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/manage-mail
+File Name: c:\Downloaded Web Sites\royalmail.com\business\manage-mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/manage-mail/redirection-diversion
+File Name: c:\Downloaded Web Sites\royalmail.com\business\manage-mail\redirection-diversion.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/manage-mail/collection-deliveries
+File Name: c:\Downloaded Web Sites\royalmail.com\business\manage-mail\collection-deliveries.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/manage-mail/keepsafe
+File Name: c:\Downloaded Web Sites\royalmail.com\business\manage-mail\keepsafe.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/manage-mail/po-box
+File Name: c:\Downloaded Web Sites\royalmail.com\business\manage-mail\po-box.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/guides-and-insights
+File Name: c:\Downloaded Web Sites\royalmail.com\business\guides-and-insights.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/guides-and-insights/selling-on-online-marketplaces
+File Name: c:\Downloaded Web Sites\royalmail.com\business\guides-and-insights\selling-on-online-marketplaces.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/guides-and-insights/getting-started-with-shipping
+File Name: c:\Downloaded Web Sites\royalmail.com\business\guides-and-insights\getting-started-with-shipping.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/coronavirus?iid=BHP_M1_CORONALATEST
+File Name: c:\Downloaded Web Sites\royalmail.com\coronavirus-2.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/shipping/ways-pay/online-business-account
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\ways-pay\online-business-account.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/sending-guide?iid=BHP_M2_1_SMEhub
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\sending-guide-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/mail/marketing/hybrid-mail?iid=BHP_M2_2_HYBRIDMAIL
+File Name: c:\Downloaded Web Sites\royalmail.com\business\mail\marketing\hybrid-mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/coronavirus-useful-royal-mail-services?iid=BHP_M2_3_CORONASERVICES
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\coronavirus-useful-royal-mail-services.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/guides-and-insights/delivery-matters-for-online-shoppers?iid=HPM3_1_DELIVERYMATTERS
+File Name: c:\Downloaded Web Sites\royalmail.com\business\guides-and-insights\delivery-matters-for-online-shoppers.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/marketing/direct-mail?iid=HPM4_2_DIRECTMAIL
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing\direct-mail-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/manage-mail/warehousing
+File Name: c:\Downloaded Web Sites\royalmail.com\business\manage-mail\warehousing.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/discounts-payment/credit-account/online-business-account
+File Name: c:\Downloaded Web Sites\royalmail.com\discounts-payment\credit-account\online-business-account.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/tools-services/apis
+File Name: c:\Downloaded Web Sites\royalmail.com\business\tools-services\apis.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/tools-services
+File Name: c:\Downloaded Web Sites\royalmail.com\business\tools-services.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-05/business-services.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-05\business-services.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-05/sme-business-customer-packing-order-laptop-parcel-540x303.jpg?itok=CVquOSUE
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-05\sme-business-customer-packing-order-laptop-parcel-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2020-02/hybrid-mail-balloons-600x400.jpg?h=252f27fa&itok=kXkDXTTb
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2020-02\hybrid-mail-balloons-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2020-04/woman-organising-mail-350x292-homepage.jpg?h=5e49a60d&itok=VbvfbJ0e
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2020-04\woman-organising-mail-350x292-homepage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/spalp/rml_branch_finder/json
+File Name: c:\Downloaded Web Sites\royalmail.com\spalp\rml_branch_finder\json.json
+Content Type: application/json
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_mwwU12JW9suF3Wq8J-wkVR9Da4YcALZFnCBd-c96t5g.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_mwwU12JW9suF3Wq8J-wkVR9Da4YcALZFnCBd-c96t5g.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_5bKRWrVTzOvr08wfRSBpJL3C-Hzx5NiBsch0oSyNnoQ.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_5bKRWrVTzOvr08wfRSBpJL3C-Hzx5NiBsch0oSyNnoQ.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_iETMcEVZ76VTJBjkBhvuk2iFLmBN0GVVMbJFsNlpVR8.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_iETMcEVZ76VTJBjkBhvuk2iFLmBN0GVVMbJFsNlpVR8.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_ZlT6VYyWu23Cwu-eKjtGP7Mp0GQhls7kuMl222KMRSo.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_ZlT6VYyWu23Cwu-eKjtGP7Mp0GQhls7kuMl222KMRSo.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_yLZ2gkutxBigGKLhW7pNclgQ1mxTd-V0zkPy9g7G-AM.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_yLZ2gkutxBigGKLhW7pNclgQ1mxTd-V0zkPy9g7G-AM.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail2017/favicon.ico
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail2017\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_ee162d7f86076aefb5672ab71bcab812_7040.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_ee162d7f86076aefb5672ab71bcab812_7040.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_f2b7c337982b3de530246dd95ddc73c9_5910.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_f2b7c337982b3de530246dd95ddc73c9_5910.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_11568f036b7c3cd50eab334ee580045c_7031.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_11568f036b7c3cd50eab334ee580045c_7031.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_f110b5354630d673d08259c6c0511bd6_7042.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_f110b5354630d673d08259c6c0511bd6_7042.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_603e10ba25c26d1c9cfc0c111c54484e_7041.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_603e10ba25c26d1c9cfc0c111c54484e_7041.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/password-reminder
+File Name: c:\Downloaded Web Sites\royalmail.com\password-reminder.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/password-request/reset
+File Name: c:\Downloaded Web Sites\royalmail.com\password-request\reset.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_b79c959529ab73de59c0b5297a21625f_2026.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_b79c959529ab73de59c0b5297a21625f_2026.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_f44892bf9e8963d8fe68359ac212fe61_7036.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_f44892bf9e8963d8fe68359ac212fe61_7036.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_559423f66517b4a1f7ef78e39b871fde_7040.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_559423f66517b4a1f7ef78e39b871fde_7040.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_8437dbc0fd46c60693780c3a19eae129_7043.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_8437dbc0fd46c60693780c3a19eae129_7043.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail2017/img/royalmail-logo.png
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail2017\img\royalmail-logo.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/account-type
+File Name: c:\Downloaded Web Sites\royalmail.com\account-type.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_d2d40c5c367f81d26c5011afde864185_7026.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_d2d40c5c367f81d26c5011afde864185_7026.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_65df2eb44143c1a9524d2dd515931d66_7041.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_65df2eb44143c1a9524d2dd515931d66_7041.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_2kSODmeFaX7ybMB6AeohAt_hNxiz95dKI0JJ2-F4f_k.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_2kSODmeFaX7ybMB6AeohAt_hNxiz95dKI0JJ2-F4f_k.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-04/mail-letters-at-home-1920x1440.jpg?itok=Lxyw0BjJ
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-04\mail-letters-at-home-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-04/mail-letters-at-home-1920x1440.jpg?itok=Wc4kUhUl
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-04\mail-letters-at-home-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-04/mail-letters-at-home-1920x1440.jpg?itok=qyEsAWbe
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-04\mail-letters-at-home-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-03/Royal Mail postwoman with trolley and small van1920x1440.jpg?itok=_rerLwLG
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-03\Royal Mail postwoman with trolley and small van1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-03/Royal Mail postwoman with trolley and small van1920x1440.jpg?itok=SjRdTPnP
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-03\Royal Mail postwoman with trolley and small van1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-03/Royal Mail postwoman with trolley and small van1920x1440.jpg?itok=xA3qzDZc
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-03\Royal Mail postwoman with trolley and small van1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/international.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\international.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/finances.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\finances.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/buy-postage-online.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\buy-postage-online.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/track.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\track.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-09/young_woman_mobile_phone_540x303.jpg?itok=hp5titVY
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-09\young_woman_mobile_phone_540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_IXZG0YjnQ_a6ys5XfyQjxkI29jK_Nlth_mV83i4xQwU.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_IXZG0YjnQ_a6ys5XfyQjxkI29jK_Nlth_mV83i4xQwU.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_84c05a16ae1f0f5642d812aedfdfe023_7026.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_84c05a16ae1f0f5642d812aedfdfe023_7026.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/A
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\A.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/B
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\B.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/C
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\C.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/D
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\D.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/E
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\E.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/F
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\F.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/G
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\G.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/H
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\H.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/I
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\I.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/J
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\J.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/K
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\K.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/L
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\L.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/M
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\M.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/N
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\N.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/O
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\O.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/P
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\P.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/Q
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\Q.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/R
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\R.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/S
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\S.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/T
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\T.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/U
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\U.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/V
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\V.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/W
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\W.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/X
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\X.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/Y
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\Y.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/Z
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\Z.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/1
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/2
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\2.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/3
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\3.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/4
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\4.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/5
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\5.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/6
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\6.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/7
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\7.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/pick-a-retailer/-/9
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\pick-a-retailer\-\9.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/15
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\15.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/16
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\16.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/102
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\102.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/34
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\34.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/413
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\413.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/808
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\808.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/11
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\11.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/904
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\904.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/41
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\41.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/228
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\228.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/588
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\588.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/357
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\357.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/108
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\108.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/740
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\740.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/541
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\541.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/43
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\43.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/24
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\24.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/21
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\21.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/241
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\241.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/2134
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\2134.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/721
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\721.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/track-my-return/create/12
+File Name: c:\Downloaded Web Sites\royalmail.com\track-my-return\create\12.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/node/34777270
+File Name: c:\Downloaded Web Sites\royalmail.com\node\34777270.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/node/34777271
+File Name: c:\Downloaded Web Sites\royalmail.com\node\34777271.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/parcel-post-boxes
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\parcel-post-boxes.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_630f346dd23edf1ec068a788cc57bcc3_7041.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_630f346dd23edf1ec068a788cc57bcc3_7041.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/tracked-returns-landing-header-image.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\tracked-returns-landing-header-image.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/tre-lp-progress-indicator.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\tre-lp-progress-indicator.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_fd755dba2605c6c17d21536fe9ae7f08_7027.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_fd755dba2605c6c17d21536fe9ae7f08_7027.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/node/19353589/popup?destination=find-a-postcode&pageName=RM 
+File Name: c:\Downloaded Web Sites\royalmail.com\node\19353589\popup.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/cy/find-a-postcode
+File Name: c:\Downloaded Web Sites\royalmail.com\cy\find-a-postcode.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/find-a-postcode/nojs/mail
+File Name: c:\Downloaded Web Sites\royalmail.com\find-a-postcode\nojs\mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/default/files/PAF-Code-of-Practice-211118.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\PAF-Code-of-Practice-211118.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/postcode-finder-term-conditions-en
+File Name: c:\Downloaded Web Sites\royalmail.com\postcode-finder-term-conditions-en.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_b7bbade12a262be64ef129abe8f6424c_2023.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_b7bbade12a262be64ef129abe8f6424c_2023.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_c1d27cccd37fe16c73540d5dbb25c1e9_7041.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_c1d27cccd37fe16c73540d5dbb25c1e9_7041.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_9aed6f005738505f05116ecaa06707ba_7040.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_9aed6f005738505f05116ecaa06707ba_7040.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail2017/img/icon/facebook.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail2017\img\icon\facebook.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail2017/img/icon/twitter.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail2017\img\icon\twitter.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail2017/img/icon/linked.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail2017\img\icon\linked.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail2017/img/icon/google.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail2017\img\icon\google.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/PAFdiagram.JPG
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\PAFdiagram.JPG
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_100x67/offer-mail-doormat-door-to-door-300x200.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_100x67\offer-mail-doormat-door-to-door-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_100x67/Redirection-mail-delivered-bear-300x200.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_100x67\Redirection-mail-delivered-bear-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-07/561793_RM_Cricket_SHOP_BNR_DT_HERO_1400x600_v2.jpg?itok=tsFBBehm
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-07\561793_RM_Cricket_SHOP_BNR_DT_HERO_1400x600_v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-07/561793_RM_Cricket_SHOP_BNR_DT_HERO_1400x600_v2.jpg?itok=HaiJVe2W
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-07\561793_RM_Cricket_SHOP_BNR_DT_HERO_1400x600_v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-07/561793_RM_Cricket_SHOP_BNR_DT_HERO_1400x600_v2.jpg?itok=XBlmU1Aa
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-07\561793_RM_Cricket_SHOP_BNR_DT_HERO_1400x600_v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-05/customer-receiving-special-delivery-at-home-1920x1440_0.jpg?itok=mHeSvuxG
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-05\customer-receiving-special-delivery-at-home-1920x1440_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-05/customer-receiving-special-delivery-at-home-1920x1440_0.jpg?itok=fFozS08u
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-05\customer-receiving-special-delivery-at-home-1920x1440_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_2CL68zKxRcTPE2R0p1ioomOdWvwXw9n19YJIowTrco4.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_2CL68zKxRcTPE2R0p1ioomOdWvwXw9n19YJIowTrco4.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/special-delivery-guaranteed-by-9am-terms-conditions-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\special-delivery-guaranteed-by-9am-terms-conditions-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-10/woman-receiving-parcel-home-door-1920x440.jpg?itok=PkWgPpIU
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-10\woman-receiving-parcel-home-door-1920x440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-10/woman-receiving-parcel-home-door-1920x440.jpg?itok=K2Ekbfn7
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-10\woman-receiving-parcel-home-door-1920x440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/services-near-you?Services=printPrepaidPostageLabel
+File Name: c:\Downloaded Web Sites\royalmail.com\services-near-you-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-07/woman-receiving-home-delivery-1440x551.jpg?itok=3SsYHPVj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-07\woman-receiving-home-delivery-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-07/woman-receiving-home-delivery-1440x551.jpg?itok=lm1-XVPq
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-07\woman-receiving-home-delivery-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/specific-terms-for-non-account-tracked-24-and-tracked-48-version-2_2-30-03-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\specific-terms-for-non-account-tracked-24-and-tracked-48-version-2_2-30-03-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-07/woman-opening-parcel-home-1440x551.jpg?itok=Iz_iGg0n
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-07\woman-opening-parcel-home-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-07/woman-opening-parcel-home-1440x551.jpg?itok=gnynZZ0S
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-07\woman-opening-parcel-home-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-03/deliver-to-neighbour-postwoman-1920x1440.jpg?itok=U6W2SE6G
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-03\deliver-to-neighbour-postwoman-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-03/deliver-to-neighbour-postwoman-1920x1440.jpg?itok=UGKvpSMq
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-03\deliver-to-neighbour-postwoman-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/d8/coronavirus-useful-royal-mail-services?iid=PERS_5050_CV_SERVICES
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\coronavirus-useful-royal-mail-services-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2020-04/woman-using-a-mobile-phone-540x303.jpg?h=d362f67c&itok=-VRn3iTH
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2020-04\woman-using-a-mobile-phone-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-03/Royal-Mail-postman-delivering-letters-1920x1440.jpg?itok=huJxhOAU
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-03\Royal-Mail-postman-delivering-letters-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-03/Royal-Mail-postman-delivering-letters-1920x1440.jpg?itok=IghVZkfM
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-03\Royal-Mail-postman-delivering-letters-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-07/logistics-postman-loading-cage-1440x551.jpg?itok=i8cRlvYB
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-07\logistics-postman-loading-cage-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-07/logistics-postman-loading-cage-1440x551.jpg?itok=jL_9FhYq
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-07\logistics-postman-loading-cage-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-09/royal-mail-sameday-terms-and-conditions-july-2018.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-09\royal-mail-sameday-terms-and-conditions-july-2018.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-03/royal-mail-van-outside-1920x1440.jpg?itok=0u9rO9xZ
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-03\royal-mail-van-outside-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-03/royal-mail-van-outside-1920x1440.jpg?itok=lptbsZqE
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-03\royal-mail-van-outside-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-03/royal-mail-van-outside-1920x1440.jpg?itok=pVUHRQvx
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-03\royal-mail-van-outside-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-10/royal-mail-van-sky-1440x292.jpg?itok=jBtKI2Sk
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-10\royal-mail-van-sky-1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-10/royal-mail-van-sky-1440x292.jpg?itok=753aIFZ1
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-10\royal-mail-van-sky-1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sending/uk/signed-for-1st-class
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk\signed-for-1st-class.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/uk/signed-for-2nd-class
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\uk\signed-for-2nd-class.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-05/restrictions.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-05\restrictions.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-05/tip.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-05\tip.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-03/family-sending-international-mail-globe-1920x1440.jpg?itok=HmqlyJAB
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-03\family-sending-international-mail-globe-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-05/sme-business-customer-laptop-parcels-540x303.jpg?itok=dZo3DbI-
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-05\sme-business-customer-laptop-parcels-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-09/familymakingcard540-303.jpg?itok=1SQnJBYF
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-09\familymakingcard540-303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_8s4G5EC06bmq07NE9rgawKJ4M8sLRPiewPW-IAertsA.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_8s4G5EC06bmq07NE9rgawKJ4M8sLRPiewPW-IAertsA.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-09/paris france aerial city view 1440x452.jpg?itok=qyMwuozw
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-09\paris france aerial city view 1440x452.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-09/paris france aerial city view 1440x452.jpg?itok=_V9U5OqK
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-09\paris france aerial city view 1440x452.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-09/paris france aerial city view 1440x452.jpg?itok=LQANn3W8
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-09\paris france aerial city view 1440x452.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-11/san-francisco-painted-ladies-houses-usa-1440x292.jpg?itok=xQiVfWcS
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-11\san-francisco-painted-ladies-houses-usa-1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-11/san-francisco-painted-ladies-houses-usa-1440x292.jpg?itok=HJvLRRWk
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-11\san-francisco-painted-ladies-houses-usa-1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/international-zones
+File Name: c:\Downloaded Web Sites\royalmail.com\international-zones.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/customs-declaration-cn22-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\customs-declaration-cn22-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-07/Customs-declaration-form-cn23.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-07\Customs-declaration-form-cn23.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_upmgjOzC7xKmDAhAkfbmg4LrPIYBjR0f_plCPazDQ6U.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_upmgjOzC7xKmDAhAkfbmg4LrPIYBjR0f_plCPazDQ6U.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-11/manarola-village-italy-1440x292.jpg?itok=zptBk58e
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-11\manarola-village-italy-1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-11/manarola-village-italy-1440x292.jpg?itok=zTbE800A
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-11\manarola-village-italy-1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-11/segur-village-france-1440x292.jpg?itok=wyivCYKb
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-11\segur-village-france-1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-11/segur-village-france-1440x292.jpg?itok=RdNVVqD7
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-11\segur-village-france-1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-09/nice_old_town_france_sea_and_houses_1440x292.jpg?itok=AoWkN32Z
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-09\nice_old_town_france_sea_and_houses_1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-09/nice_old_town_france_sea_and_houses_1440x292.jpg?itok=vi4m1_0J
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-09\nice_old_town_france_sea_and_houses_1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-09/nice_old_town_france_sea_and_houses_1440x292.jpg?itok=ZcW0TpTw
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-09\nice_old_town_france_sea_and_houses_1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_yQmsxbzuaRlxu0xZCZiu4nJyS8uq8v3W0ND-Z5zmCa4.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_yQmsxbzuaRlxu0xZCZiu4nJyS8uq8v3W0ND-Z5zmCa4.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/airmail_world_zones.gif
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\airmail_world_zones.gif
+Content Type: image/gif
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-05/international.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-05\international.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-09/scanning_international_parcel_540x303.jpg?itok=Tb_qk21J
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-09\scanning_international_parcel_540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-09/globe-international-540x303.jpg?itok=CcfTx2A7
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-09\globe-international-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-09/international-mail-centre-mail-bags-540x303.jpg?itok=o8TWAWFr
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-09\international-mail-centre-mail-bags-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_WeTX1OU5saDWL2FE5aqn8ODws2ZZkpJRJ6bz-0w3UK4.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_WeTX1OU5saDWL2FE5aqn8ODws2ZZkpJRJ6bz-0w3UK4.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_nLdNP6H-7mFvDNksZdLbt1Ro7inxs2i-0RCZFLJrGIU.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_nLdNP6H-7mFvDNksZdLbt1Ro7inxs2i-0RCZFLJrGIU.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-09/new-york-city-skyline-1440x292_0.jpg?itok=E0SMkwxS
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-09\new-york-city-skyline-1440x292_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-09/new-york-city-skyline-1440x292_0.jpg?itok=8uAQ2WnX
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-09\new-york-city-skyline-1440x292_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sending/international/international-signed
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\international\international-signed.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/international/international-economy
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\international\international-economy.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_5LiRsaqC1GUAZaQ7SFN8DMk-fD4KnA8Ou0KTOZcYEDg.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_5LiRsaqC1GUAZaQ7SFN8DMk-fD4KnA8Ou0KTOZcYEDg.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-07/woman-opening-parcel-home-1440x551_0.jpg?itok=N-we4-DI
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-07\woman-opening-parcel-home-1440x551_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-07/woman-opening-parcel-home-1440x551_0.jpg?itok=RgAS_RND
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-07\woman-opening-parcel-home-1440x551_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-07/woman-opening-parcel-home-1440x551_0.jpg?itok=htbMqNp4
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-07\woman-opening-parcel-home-1440x551_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-05/sme-business-customer-packing-order-laptop-parcel-1440x551.jpg?itok=JnH_Tfin
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-05\sme-business-customer-packing-order-laptop-parcel-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-05/sme-business-customer-packing-order-laptop-parcel-1440x551.jpg?itok=r7JDTduu
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-05\sme-business-customer-packing-order-laptop-parcel-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-05/sme-business-customer-packing-order-laptop-parcel-1440x551.jpg?itok=uPsYnTCI
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-05\sme-business-customer-packing-order-laptop-parcel-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/business/parcels/returns
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\returns.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/contact?source=landing
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\contact.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/ecommerce-integration
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\ecommerce-integration.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/guides-and-insights/delivery-matters-for-online-shoppers
+File Name: c:\Downloaded Web Sites\royalmail.com\business\guides-and-insights\delivery-matters-for-online-shoppers-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-05/sme-business-customer-in-office-parcels-540x303.jpg?itok=CuUltgQG
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-05\sme-business-customer-in-office-parcels-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-04/letters_in_a_rack_on_a_desk_1920x1440.jpg?itok=98UV_ee6
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-04\letters_in_a_rack_on_a_desk_1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-04/returning parcel to csp 1920x1440.jpg?itok=a5tiLhYE
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-04\returning parcel to csp 1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-09/abstract-pins-international-map-540x303.jpg?itok=USDRHGqg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-09\abstract-pins-international-map-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-04/sorting_parcels_into_several_yorks_1920x1440.jpg?itok=e7NrNU_D
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-04\sorting_parcels_into_several_yorks_1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-05/small-business-owner-with-parcel-540x303.jpg?itok=DYqCTKtv
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-05\small-business-owner-with-parcel-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-04/SME receiving order on computer in warehouse .jpeg?itok=YpXs4FAj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-04\SME receiving order on computer in warehouse .jpeg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-04/feel good contacts case study 1920x1440.jpg?itok=_eq8-oZH
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-04\feel good contacts case study 1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_CwcGTXzjCDs4o8r8dFVDpNqHXNpTSysEgXI3SRoKnBc.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_CwcGTXzjCDs4o8r8dFVDpNqHXNpTSysEgXI3SRoKnBc.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_875340f206eeed6f2f478f1255f6fb45_7026.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_875340f206eeed6f2f478f1255f6fb45_7026.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/node/19353589/popup?destination=personal%2Freceiving-mail%2Fredelivery&pageName=RM Receiving mail >Moving >Redelivery 19353861
+File Name: c:\Downloaded Web Sites\royalmail.com\node\19353589\popup-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/digital-delivery-notifications
+File Name: c:\Downloaded Web Sites\royalmail.com\digital-delivery-notifications.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/receiving-mail/redirection?iid=RHS_PROMO_PER_MARKET_ISH_01
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\receiving-mail\redirection-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_cf90cc99ed31da3bb4430988c46a2e39_2024.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_cf90cc99ed31da3bb4430988c46a2e39_2024.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_c20ee9781aa86533a365c3882b524d57_2210.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_c20ee9781aa86533a365c3882b524d57_2210.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_f2f91048b9ea7f358e22da4e8aae7454_7031.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_f2f91048b9ea7f358e22da4e8aae7454_7031.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_250x167/P739-on-fridge-something-for-you-crop-300x200.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_250x167\P739-on-fridge-something-for-you-crop-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/media/Missed-a-Delivery.-Process.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\media\Missed-a-Delivery.-Process.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_300x200/Missed-delivery-promo-300x200.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_300x200\Missed-delivery-promo-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_300x200/67-per-cent_300-200-white-background.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_300x200\67-per-cent_300-200-white-background.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_300x200/programmatic-mail-300x200-30-percent.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_300x200\programmatic-mail-300x200-30-percent.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_300x200/international-click-drop-web-promo-300x200-v2.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_300x200\international-click-drop-web-promo-300x200-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_300x200/92-per-cent_300-200-white-background.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_300x200\92-per-cent_300-200-white-background.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_300x200/redirection-web-promo-300x200_0.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_300x200\redirection-web-promo-300x200_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_300x200/d2d-lapsed-300x200-v2.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_300x200\d2d-lapsed-300x200-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/address-now-promo-300x200-a-v2.png
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\address-now-promo-300x200-a-v2.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_300x200/Paper_dart_300-200-white-background.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_300x200\Paper_dart_300-200-white-background.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_300x200/multi-item-click-drop-web-promo300x200.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_300x200\multi-item-click-drop-web-promo300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail_responsive/favicon.ico
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail_responsive\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_71b47f12793ee6170a31d78d2659cd28_7032.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_71b47f12793ee6170a31d78d2659cd28_7032.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_cc12d44f7d2aab219f8235310c9b3edc_5908.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_cc12d44f7d2aab219f8235310c9b3edc_5908.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_c0e014a10f668f84056de2579efa7692_3505.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_c0e014a10f668f84056de2579efa7692_3505.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/node/19353589/popup?destination=personal%2Freceiving-mail%2Fpay-a-fee&pageName=RM Receiving mail >Tools >Pay a fee 23584012
+File Name: c:\Downloaded Web Sites\royalmail.com\node\19353589\popup-2.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/receiving-mail/pay-a-fee/unpaid-postage
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\receiving-mail\pay-a-fee\unpaid-postage.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/receiving-mail/pay-a-fee/customs-charge
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\receiving-mail\pay-a-fee\customs-charge.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail_responsive/img/royalmail-logo.png
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail_responsive\img\royalmail-logo.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail_responsive/img/icon/facebook.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail_responsive\img\icon\facebook.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail_responsive/img/icon/twitter.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail_responsive\img\icon\twitter.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail_responsive/img/icon/linked.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail_responsive\img\icon\linked.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail_responsive/img/icon/google.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail_responsive\img\icon\google.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_ed04eef8e1ac7e514b03ea892a62b7fd_2023.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_ed04eef8e1ac7e514b03ea892a62b7fd_2023.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_0e1d5ebc8a7c069f27845d20bbfc9284_5908.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_0e1d5ebc8a7c069f27845d20bbfc9284_5908.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_14c1f811a24029721100d6054442b1a7_2209.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_14c1f811a24029721100d6054442b1a7_2209.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_78f486a1bd29a864b8e55ec66f5a8122_7031.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_78f486a1bd29a864b8e55ec66f5a8122_7031.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_cac90438274edf5710482e8db5eba3ca_7021.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_cac90438274edf5710482e8db5eba3ca_7021.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/node/19353589/popup?destination=personal%2Freceiving-mail%2Fredirection&pageName=RM Receiving mail >Moving >Redirect your mail 19353855
+File Name: c:\Downloaded Web Sites\royalmail.com\node\19353589\popup-3.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/default/files/special-circumstances-redirection-application-form-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\special-circumstances-redirection-application-form-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/default/files/redirection-concessionary-form-19-march-2019.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\redirection-concessionary-form-19-march-2019.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/special-circumstances-redirection-leaflet-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\special-circumstances-redirection-leaflet-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/default/files/royal-mail-redirection-consumer-and-special-circumstances-terms-conditions-march-2019-20436557.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\royal-mail-redirection-consumer-and-special-circumstances-terms-conditions-march-2019-20436557.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/default/files/redirection-consumer-terms-and-conditions-may-2019-35871098.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\redirection-consumer-terms-and-conditions-may-2019-35871098.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_3584e0b51063e78668ae622a7be6a946_7038.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_3584e0b51063e78668ae622a7be6a946_7038.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/redirections-2020-620x90.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\redirections-2020-620x90.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/all/themes/royalmail2012/img/file-icons/application-pdf.png
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\themes\royalmail2012\img\file-icons\application-pdf.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/default/files/imagecache/media_file_100x67/media/envelopes.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\imagecache\media_file_100x67\media\envelopes.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-05/1920x640_2373_sorting_mail_in_royal_mail_mail_centre_a6.jpg?itok=mfqMlg2O
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-05\1920x640_2373_sorting_mail_in_royal_mail_mail_centre_a6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-05/1920x640_2373_sorting_mail_in_royal_mail_mail_centre_a6.jpg?itok=omLxyp2u
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-05\1920x640_2373_sorting_mail_in_royal_mail_mail_centre_a6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-05/1920x640_2373_sorting_mail_in_royal_mail_mail_centre_a6.jpg?itok=_mhlf52l
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-05\1920x640_2373_sorting_mail_in_royal_mail_mail_centre_a6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_ob5gMs0wOuZECMdExZZF6pXvZsquhEoI0A37d93Dk-A.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_ob5gMs0wOuZECMdExZZF6pXvZsquhEoI0A37d93Dk-A.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/keep-safe
+File Name: c:\Downloaded Web Sites\royalmail.com\keep-safe.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/keepsafe-personal-application-form-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\keepsafe-personal-application-form-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/keepsafe-terms-and-conditions-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\keepsafe-terms-and-conditions-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/media/oembed?url=https://youtu.be/NCZq-_pt80Q&max_width=0&max_height=0&hash=mFy8Elfq_1k3Mhn_bJzMu9-eV1hVLiRVNNgIyxKKLZ8
+File Name: c:\Downloaded Web Sites\royalmail.com\media\oembed.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/media/oembed?url=https://youtu.be/8onsIJKwmJc&max_width=0&max_height=0&hash=Pf_UzgLLJvq2b3jwKnxEH6ltPOaB_ZKuaKs0YTRNkbU
+File Name: c:\Downloaded Web Sites\royalmail.com\media\oembed-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-03/customer-collecting-parcel-csp-delivery-office-1920x1440.jpg?itok=7abyE4AT
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-03\customer-collecting-parcel-csp-delivery-office-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-03/customer-collecting-parcel-csp-delivery-office-1920x1440.jpg?itok=31U-K4Un
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-03\customer-collecting-parcel-csp-delivery-office-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-03/customer-collecting-parcel-csp-delivery-office-1920x1440.jpg?itok=Zr5hueyX
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-03\customer-collecting-parcel-csp-delivery-office-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/po-box-application-form-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\po-box-application-form-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/user/login?destination=po-box
+File Name: c:\Downloaded Web Sites\royalmail.com\user\login-4.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/po-box-direct-debit-mandate-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\po-box-direct-debit-mandate-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-07/woman-receiving-home-delivery-1440x551.jpg?itok=u4JYLvZa
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-07\woman-receiving-home-delivery-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-07/woman-receiving-home-delivery-1440x551.jpg?itok=aeMiltGx
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-07\woman-receiving-home-delivery-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-07/woman-receiving-home-delivery-1440x551.jpg?itok=abw5SngU
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-07\woman-receiving-home-delivery-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/prepaid-item-or-return.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\prepaid-item-or-return.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/id.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\id.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-05/pay-a-fee.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-05\pay-a-fee.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-09/customer-mobile-ecommerce-540x303.jpg?itok=th4mOrQc
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-09\customer-mobile-ecommerce-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-10/stamp-banner-1440x551px-1_v1.jpg?itok=IJbuiEM_
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-10\stamp-banner-1440x551px-1_v1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-10/stamp-banner-1440x551px-1_v1.jpg?itok=WR7tANQE
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-10\stamp-banner-1440x551px-1_v1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-10/stamp-banner-1440x551px-1_v1.jpg?itok=gB6II-vY
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-10\stamp-banner-1440x551px-1_v1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-01/royal-mail-stocklist-january-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-01\royal-mail-stocklist-january-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/postmarks
+File Name: c:\Downloaded Web Sites\royalmail.com\postmarks.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-09/christmas-letter-540x303.png?itok=msNwGYpS
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-09\christmas-letter-540x303.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/case_study/public/2020-02/stamps-300x185-james-bond.jpg?h=097bd2d2&itok=g5NvDv3c
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\case_study\public\2020-02\stamps-300x185-james-bond.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/case_study/public/2020-02/stamps-300x185-visions-of-the-universe.jpg?h=097bd2d2&itok=x71E0reE
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\case_study\public\2020-02\stamps-300x185-visions-of-the-universe.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/case_study/public/2020-01/stamps-300x185-video-games.jpg?itok=P2RWFR1b
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\case_study\public\2020-01\stamps-300x185-video-games.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-10/postmarks-540x303.jpg?itok=w3urIflY
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-10\postmarks-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_Mb-Z-1gGuuYr7XT8qBNXWTVHVGaPFMHAuJiWQyZk7YE.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_Mb-Z-1gGuuYr7XT8qBNXWTVHVGaPFMHAuJiWQyZk7YE.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2020-03/rm_red_1440_551_2.jpg?h=255124b9&amp;itok=Z1PNmgwW
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2020-03\rm_red_1440_551_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2020-03/rm_red_1440_551_2.jpg?h=255124b9&amp;itok=zimYVh5M
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2020-03\rm_red_1440_551_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2020-03/rm_red_1440_551_2.jpg?h=255124b9&amp;itok=woRxVZp6
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2020-03\rm_red_1440_551_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/d8/coronavirus-delivering-country
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\coronavirus-delivering-country-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/coronavirus-changes-service
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\coronavirus-changes-service.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/priority-postboxes
+File Name: c:\Downloaded Web Sites\royalmail.com\priority-postboxes-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/coronavirus-protection
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\coronavirus-protection.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/coronavirus-medicine
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\coronavirus-medicine.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/uk-services-faq
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\uk-services-faq.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/coronavirus-useful-royal-mail-services
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\coronavirus-useful-royal-mail-services-2.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2020-04/useful_services_banner.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2020-04\useful_services_banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/224_x_160/public/2020-03/rm_lorry_2.jpg?h=e14f6b2f&itok=Y6Cquf02
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\224_x_160\public\2020-03\rm_lorry_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/224_x_160/public/2020-03/rm_lorries.jpg?h=1449e3bc&itok=acShIjR1
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\224_x_160\public\2020-03\rm_lorries.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-10/buy-postage-royal-mail-app-3.png?itok=3ylW0Lub
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-10\buy-postage-royal-mail-app-3.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-10/buy-postage-royal-mail-app-3.png?itok=VPQy7wUk
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-10\buy-postage-royal-mail-app-3.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-10/buy-postage-royal-mail-app-3.png?itok=FNtpTPIl
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-10\buy-postage-royal-mail-app-3.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/apple-download-on-the-app-store-150x50.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\apple-download-on-the-app-store-150x50.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/google-get-it-on-google-play-168x50.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\google-get-it-on-google-play-168x50.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/rm-app-launch-desktop-qr-200x200-v2.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\rm-app-launch-desktop-qr-200x200-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-12/amazon-echo-540x303.jpg?itok=m7fbARLB
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-12\amazon-echo-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2020-04/delivering_thumbnail_2_350.jpg?h=5e49a60d&amp;itok=X_591M52
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2020-04\delivering_thumbnail_2_350.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_7Q0BuiA7nV6RDlEQ8uw9IVSJHEymesTgBmdlod9ksKk.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_7Q0BuiA7nV6RDlEQ8uw9IVSJHEymesTgBmdlod9ksKk.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/media/oembed?url=https://player.vimeo.com/video/403606858&max_width=0&max_height=0&hash=1HSOl8doqi4atibsK5E96VO_L58Q2uc3xOyolq06fx8
+File Name: c:\Downloaded Web Sites\royalmail.com\media\oembed-2.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/thumbsup
+File Name: c:\Downloaded Web Sites\royalmail.com\thumbsup-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2020-04/thumbs_up_banner_v1.jpg?h=2ed0bb2e&amp;itok=x_4SX0JM
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2020-04\thumbs_up_banner_v1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2020-04/thumbs_up_banner_v1.jpg?h=2ed0bb2e&amp;itok=kmu5x-ha
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2020-04\thumbs_up_banner_v1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-04/rm_colouring_sheets_thumbsup.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-04\rm_colouring_sheets_thumbsup.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-04/rm_colouring_sheets_postwoman.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-04\rm_colouring_sheets_postwoman.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-04/rm_colouring_sheets_postman_with_trolley_0.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-04\rm_colouring_sheets_postman_with_trolley_0.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-04/rm_colouring_sheets_van.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-04\rm_colouring_sheets_van.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-04/rm_colouring_sheets_stamp.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-04\rm_colouring_sheets_stamp.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-04/rm_colouring_sheets_postbox.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-04\rm_colouring_sheets_postbox.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-04/rm_colouring_sheets_blank.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-04\rm_colouring_sheets_blank.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-04/thumbs-up-bigger-image-logo.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-04\thumbs-up-bigger-image-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/media/oembed?url=https://youtu.be/YB8K05GrUhA&max_width=0&max_height=0&hash=oqIxxllfM_g66WNKxsF7DinQ7ODv6aZpaMBQP08ek4I
+File Name: c:\Downloaded Web Sites\royalmail.com\media\oembed-3.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2020-04/get-creative-5050-thumbs-up.jpg?h=d362f67c&itok=pscEv_UK
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2020-04\get-creative-5050-thumbs-up.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2020-04/thumbs-up-2m-illustration_v4.jpg?h=0fb70b25&itok=9BWfg4XA
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2020-04\thumbs-up-2m-illustration_v4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_c5868cab8b1b8eedec90909933c07cf2_7026.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_c5868cab8b1b8eedec90909933c07cf2_7026.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_css/css_210bd17c7da59b53125aacbbfe668b24_7041.css
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_css\css_210bd17c7da59b53125aacbbfe668b24_7041.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/get-a-price/nojs/mail
+File Name: c:\Downloaded Web Sites\royalmail.com\get-a-price\nojs\mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/site-map
+File Name: c:\Downloaded Web Sites\royalmail.com\site-map.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_ee20df28965389183fa88707e718caa9_5908.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_ee20df28965389183fa88707e718caa9_5908.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/default/files/advagg_js/js_6ff61b5d60d019cb22ba11f6ee940f80_5908.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\advagg_js\js_6ff61b5d60d019cb22ba11f6ee940f80_5908.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/all/modules/custom/pricefinder_ng/dist/chrome/royalmail-logo-outlined-80x54.gif
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\all\modules\custom\pricefinder_ng\dist\chrome\royalmail-logo-outlined-80x54.gif
+Content Type: image/gif
+
+Uri: https://www.royalmail.com/sites/default/files/prohibited_restricted_goods.jpg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\default\files\prohibited_restricted_goods.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/prices2020
+File Name: c:\Downloaded Web Sites\royalmail.com\prices2020.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/royal-mail-our-prices-valid-from-23-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\royal-mail-our-prices-valid-from-23-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/royal-mail-our-online-prices-valid-from-23-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\royal-mail-our-online-prices-valid-from-23-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/royal-mail-our-services-valid-from-23-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\royal-mail-our-services-valid-from-23-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/royal-mail-business-price-guide-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\royal-mail-business-price-guide-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/response-services-rate-card-23-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\response-services-rate-card-23-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-01/rm-int-bus-mail-serv-rate-card-02-01-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-01\rm-int-bus-mail-serv-rate-card-02-01-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-01/royal-mail-international-business-parcels-rate-card-02-01-2020_0.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-01\royal-mail-international-business-parcels-rate-card-02-01-2020_0.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/franking-wallchart-23-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\franking-wallchart-23-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/mailmark-franking-prices-wallchart-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\mailmark-franking-prices-wallchart-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/uk-stamp-prices-wallchart-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\uk-stamp-prices-wallchart-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-09/royal-mail-international-business-pricing-calculator-march-2019-1150.zip
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-09\royal-mail-international-business-pricing-calculator-march-2019-1150.zip
+Content Type: application/zip
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-01/marketreach-partially-addressed-mail-price-guide-jan2020-02012020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-01\marketreach-partially-addressed-mail-price-guide-jan2020-02012020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/marketing-services-and-general-correspondence-price-guide-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\marketing-services-and-general-correspondence-price-guide-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/advertising-mail-including-sustainable-rate-card-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\advertising-mail-including-sustainable-rate-card-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/publishing-mail-rate-card-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\publishing-mail-rate-card-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/business-mail-rate-card-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\business-mail-rate-card-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/royal-mail-door-to-door-rate-card-2020--effective-9th-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\royal-mail-door-to-door-rate-card-2020--effective-9th-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-01/royal-mail-subscription-mail-rate-card-jan2020-02012020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-01\royal-mail-subscription-mail-rate-card-jan2020-02012020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/parcel-despatch-medium/business-comms-update-details-form
+File Name: c:\Downloaded Web Sites\royalmail.com\parcel-despatch-medium\business-comms-update-details-form.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-05/letters_sorted_in_machine_1440x292.jpg?itok=aG-crACm
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-05\letters_sorted_in_machine_1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-05/letters_sorted_in_machine_1440x292.jpg?itok=zxV6N_LL
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-05\letters_sorted_in_machine_1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-05/letters_sorted_in_machine_1440x292.jpg?itok=4GiLccha
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-05\letters_sorted_in_machine_1440x292.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/order-form-retail-stamps-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\order-form-retail-stamps-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/retailer-stamp-prices-23-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\retailer-stamp-prices-23-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-08/retail-stamps-terms-and-conditions-2019_0.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-08\retail-stamps-terms-and-conditions-2019_0.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/termschanges
+File Name: c:\Downloaded Web Sites\royalmail.com\termschanges.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/royal-mail-general-terms-and-conditions-version-8_0-30-03-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\royal-mail-general-terms-and-conditions-version-8_0-30-03-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/royal-mail-specific-terms-for-parcels-v3_2-january-2-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\royal-mail-specific-terms-for-parcels-v3_2-january-2-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-09/specific-terms-for-international-v-1_5-2019-07-01-180.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-09\specific-terms-for-international-v-1_5-2019-07-01-180.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-11/specific-terms-for-marketing-products--v1_6--12-november-2019_0.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-11\specific-terms-for-marketing-products--v1_6--12-november-2019_0.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/royal-mail-id-verification-terms-and-conditions-30-september-2019-version-1.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\royal-mail-id-verification-terms-and-conditions-30-september-2019-version-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/royal-mail-age-verification-terms-and-conditions-30-september-version-1.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\royal-mail-age-verification-terms-and-conditions-30-september-version-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/non-contract-terms-and-conditions
+File Name: c:\Downloaded Web Sites\royalmail.com\non-contract-terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sale-of-retail-products-to-retailers-terms-and-conditions
+File Name: c:\Downloaded Web Sites\royalmail.com\sale-of-retail-products-to-retailers-terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/royal-mail-credit-policy
+File Name: c:\Downloaded Web Sites\royalmail.com\royal-mail-credit-policy.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/information-vat-and-postal-services
+File Name: c:\Downloaded Web Sites\royalmail.com\information-vat-and-postal-services.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/online-business-account-oba/terms-and-conditions
+File Name: c:\Downloaded Web Sites\royalmail.com\online-business-account-oba\terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/surcharges
+File Name: c:\Downloaded Web Sites\royalmail.com\surcharges.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/amazon-terms-conditions
+File Name: c:\Downloaded Web Sites\royalmail.com\amazon-terms-conditions.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sending/international-sanctions
+File Name: c:\Downloaded Web Sites\royalmail.com\sending\international-sanctions.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/stamps-collectibles/terms-and-conditions
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\stamps-collectibles\terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/gdpr
+File Name: c:\Downloaded Web Sites\royalmail.com\gdpr.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-11/royal-mail-welsh-language-scheme.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-11\royal-mail-welsh-language-scheme.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/royal-mail-uk-parcel-services-user-guide-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\royal-mail-uk-parcel-services-user-guide-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/business/mail/publishing-mail
+File Name: c:\Downloaded Web Sites\royalmail.com\business\mail\publishing-mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/international/services/business-mail
+File Name: c:\Downloaded Web Sites\royalmail.com\business\international\services\business-mail.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2020-03/international-business-parcels-user-guide-march-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2020-03\international-business-parcels-user-guide-march-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-07/response-services-user_guide-march-2017.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-07\response-services-user_guide-march-2017.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/corporate/mail-management/inbound/presorted-delivery
+File Name: c:\Downloaded Web Sites\royalmail.com\corporate\mail-management\inbound\presorted-delivery.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/collections
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\collections.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/mails-verification-on-site-terms-conditions.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\mails-verification-on-site-terms-conditions.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/business/marketing/mailshotmaker
+File Name: c:\Downloaded Web Sites\royalmail.com\business\marketing\mailshotmaker.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/shipping/parcels/safebox
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\parcels\safebox.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/shipping/uk-services/sameday
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\uk-services\sameday.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/corporate/mail-management/inbound/selectapost
+File Name: c:\Downloaded Web Sites\royalmail.com\corporate\mail-management\inbound\selectapost.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-12/door-to-door-terms-and-conditions--effective-1st-april-2020.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-12\door-to-door-terms-and-conditions--effective-1st-april-2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-12/royal-mail-door-to-door-user-guide-2020-21-final.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-12\royal-mail-door-to-door-user-guide-2020-21-final.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/profiling-opt-out
+File Name: c:\Downloaded Web Sites\royalmail.com\profiling-opt-out.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/cy/track-your-item
+File Name: c:\Downloaded Web Sites\royalmail.com\cy\track-your-item.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/welsh-contact-us
+File Name: c:\Downloaded Web Sites\royalmail.com\welsh-contact-us.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/redirection-consumer-application-form-welsh-may-2019.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\redirection-consumer-application-form-welsh-may-2019.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/special-circumstances-application-form-welsh-march-2018.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\special-circumstances-application-form-welsh-march-2018.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-10/redirection-consumer-terms-and-conditions-may-2019.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-10\redirection-consumer-terms-and-conditions-may-2019.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/business/profiles/b2bprofile/themes/b2b/css/typography.css
+File Name: c:\Downloaded Web Sites\royalmail.com\business\profiles\b2bprofile\themes\b2b\css\typography.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/business/profiles/b2bprofile/themes/b2b/favicon.ico
+File Name: c:\Downloaded Web Sites\royalmail.com\business\profiles\b2bprofile\themes\b2b\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.royalmail.com/business/sites/default/files/advagg_css/css__0oYZpyLZXa-4deX087HgBmSSS2g2zcME8zKVWH8wkfk__kJPOLXFuAkjNgt7jup4YUkRb0b_goQzqXRe-f8caQ_s__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.css
+File Name: c:\Downloaded Web Sites\royalmail.com\business\sites\default\files\advagg_css\css__0oYZpyLZXa-4deX087HgBmSSS2g2zcME8zKVWH8wkfk__kJPOLXFuAkjNgt7jup4YUkRb0b_goQzqXRe-f8caQ_s__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/business/sites/default/files/advagg_css/css__M35T8FFyOtcgFtn9Qbk1V0NfEojo_J1nUC8GFiUqALs__oSEGWibaguBSToc1zJflS5ya_GpgBq_DMGfcnUz8Pps__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.css
+File Name: c:\Downloaded Web Sites\royalmail.com\business\sites\default\files\advagg_css\css__M35T8FFyOtcgFtn9Qbk1V0NfEojo_J1nUC8GFiUqALs__oSEGWibaguBSToc1zJflS5ya_GpgBq_DMGfcnUz8Pps__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/business/sites/default/files/advagg_css/css__dW6K2AGO5HJcUMtgQJ5CktN9lzzQUY1FTSwHk0oWCQY__bEiuLmwL4T_yIOGSNq1xpm1p5g73LdlrthJ-0zWq9W4__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.css
+File Name: c:\Downloaded Web Sites\royalmail.com\business\sites\default\files\advagg_css\css__dW6K2AGO5HJcUMtgQJ5CktN9lzzQUY1FTSwHk0oWCQY__bEiuLmwL4T_yIOGSNq1xpm1p5g73LdlrthJ-0zWq9W4__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/business/parcel-delivery?source=rm.com
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcel-delivery.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/user
+File Name: c:\Downloaded Web Sites\royalmail.com\business\user.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/user/forgotten-your-password
+File Name: c:\Downloaded Web Sites\royalmail.com\business\user\forgotten-your-password.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/user/password
+File Name: c:\Downloaded Web Sites\royalmail.com\business\user\password.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/sites/default/files/advagg_js/js__tdA0X0NvUeqKkz3vIa7ND8tfaox8oKnuki9ufpfaP_A__P4oBG7sjrOgDbTh2qqmNVCBbalT4My65ZBGvGdCGL28__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.js
+File Name: c:\Downloaded Web Sites\royalmail.com\business\sites\default\files\advagg_js\js__tdA0X0NvUeqKkz3vIa7ND8tfaox8oKnuki9ufpfaP_A__P4oBG7sjrOgDbTh2qqmNVCBbalT4My65ZBGvGdCGL28__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/business/profiles/b2bprofile/themes/b2b/logo.png
+File Name: c:\Downloaded Web Sites\royalmail.com\business\profiles\b2bprofile\themes\b2b\logo.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/business/sites/default/files/advagg_css/css__ElxcuOVGl3iQ4w-kBTJQyngfkvE_zMglRUv3PXAuvJQ__JimL1cGnK9o_NsajvMIu1ueWQZR4U_6AXq-z06_BF14__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.css
+File Name: c:\Downloaded Web Sites\royalmail.com\business\sites\default\files\advagg_css\css__ElxcuOVGl3iQ4w-kBTJQyngfkvE_zMglRUv3PXAuvJQ__JimL1cGnK9o_NsajvMIu1ueWQZR4U_6AXq-z06_BF14__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/business/sites/default/files/advagg_js/js__Z1q_KKW1JHH6YLGeb9zARxa62NwqZTzEwvfZGxJ6Zqo__5cjaxgxZPf7AzKTmwyTwYwqwOPaBoRHZ59HSbhe_1DM__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.js
+File Name: c:\Downloaded Web Sites\royalmail.com\business\sites\default\files\advagg_js\js__Z1q_KKW1JHH6YLGeb9zARxa62NwqZTzEwvfZGxJ6Zqo__5cjaxgxZPf7AzKTmwyTwYwqwOPaBoRHZ59HSbhe_1DM__1EhKWtxYQL6PAuHD32Qx97DJ97a1eGYloIo2q0JSIuI.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/rml_background/public/2019-11/1440x1081_Honeywell_200kb.jpg?itok=NMd57IkE
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\rml_background\public\2019-11\1440x1081_Honeywell_200kb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-11/1440x1081_Honeywell_200kb.jpg?itok=FQfE0iQD
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-11\1440x1081_Honeywell_200kb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-11/1280x500_Honeywell_150kb.jpg?itok=a60PmH2H
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-11\1280x500_Honeywell_150kb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-11/1280x500_Honeywell_150kb.jpg?itok=zsg0lwiZ
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-11\1280x500_Honeywell_150kb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-11/1280x500_Honeywell_150kb.jpg?itok=ySn31Vlr
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-11\1280x500_Honeywell_150kb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/css/css_J10B_UafWchAjAUfIVHWmyWnrNsV2zvauNtX6p8MclM.css?q8uwwj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\css\css_J10B_UafWchAjAUfIVHWmyWnrNsV2zvauNtX6p8MclM.css
+Content Type: text/css
+
+Uri: https://www.royalmail.com/business/shipping/ways-pay/click-drop
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\ways-pay\click-drop.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcel-delivery/value
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcel-delivery\value.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/case_study/public/2019-10/447x300_munidal_1.png?itok=EA6a2R09
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\case_study\public\2019-10\447x300_munidal_1.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/case_study/public/2019-10/447x300_honeywell_1.png?itok=9khtbJKS
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\case_study\public\2019-10\447x300_honeywell_1.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/case_study/public/2019-10/447x300_burnt_soul_1.png?itok=yta-j3-9
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\case_study\public\2019-10\447x300_burnt_soul_1.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_e1pNW46QvFJbzqL1h4BHYSaZpkFwhoiIKHCOd0Fx6XQ.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_e1pNW46QvFJbzqL1h4BHYSaZpkFwhoiIKHCOd0Fx6XQ.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_hJIOlJcpjqm2j94me9enrjg7pELrLJbxfELOAUgy9Tw.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_hJIOlJcpjqm2j94me9enrjg7pELrLJbxfELOAUgy9Tw.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_3RXe6Z0hGyzDzzPZs_BcLhgaqoCqOmjjNexQYGUWz0k.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_3RXe6Z0hGyzDzzPZs_BcLhgaqoCqOmjjNexQYGUWz0k.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-05/sme-business-customer-laptop-parcels-144x551.jpg?itok=0YAXN6eM
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-05\sme-business-customer-laptop-parcels-144x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-05/sme-business-customer-laptop-parcels-144x551.jpg?itok=WayokDgG
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-05\sme-business-customer-laptop-parcels-144x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-05/sme-business-customer-laptop-parcels-144x551.jpg?itok=-Y8QF-Pv
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-05\sme-business-customer-laptop-parcels-144x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/business/shipping/uk-services/tracked-24-48
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\uk-services\tracked-24-48.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/shipping/uk-services/royal-mail-24-48
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\uk-services\royal-mail-24-48.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/shipping/uk-services/special-delivery-guaranteed
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\uk-services\special-delivery-guaranteed.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/contact?source=parcels
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\contact-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcel-delivery/non-account-parcels
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcel-delivery\non-account-parcels.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/delivery-options
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\delivery-options.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-05/small-business-owner-with-parcel-540x303.jpg?itok=5t-PY7jP
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-05\small-business-owner-with-parcel-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-04/a parcel in a scanner 1920x1440.jpg?itok=y2TT5Ra7
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-04\a parcel in a scanner 1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-04/putting international mail bags on hooks 1920x1440.jpg?itok=smfHsQCj
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-04\putting international mail bags on hooks 1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-04/special delivery parcel collection from business 1920x1440.jpg?itok=r8luiUT7
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-04\special delivery parcel collection from business 1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-07/woman-receiving-home-delivery-1440x551.jpg?itok=LQEZDlQk
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-07\woman-receiving-home-delivery-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-11/customer-receiving-parcel-home-350x292.png?itok=0EvcSpsz
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-11\customer-receiving-parcel-home-350x292.png
+Content Type: image/png
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-05/sme-business-shop-owner-1440x551.jpg?itok=AbECCXjR
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-05\sme-business-shop-owner-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-05/sme-business-shop-owner-1440x551.jpg?itok=CR5yRB6l
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-05\sme-business-shop-owner-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-05/sme-business-shop-owner-1440x551.jpg?itok=mHGTaRyJ
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-05\sme-business-shop-owner-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/business/delivery-solutions/marketplaces
+File Name: c:\Downloaded Web Sites\royalmail.com\business\delivery-solutions\marketplaces.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/delivery-solutions/pharmacies-health
+File Name: c:\Downloaded Web Sites\royalmail.com\business\delivery-solutions\pharmacies-health.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/delivery-solutions/fashion
+File Name: c:\Downloaded Web Sites\royalmail.com\business\delivery-solutions\fashion.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/delivery-solutions/beauty
+File Name: c:\Downloaded Web Sites\royalmail.com\business\delivery-solutions\beauty.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/delivery-solutions/sport
+File Name: c:\Downloaded Web Sites\royalmail.com\business\delivery-solutions\sport.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/delivery-solutions/optical
+File Name: c:\Downloaded Web Sites\royalmail.com\business\delivery-solutions\optical.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/delivery-solutions/gardening-diy
+File Name: c:\Downloaded Web Sites\royalmail.com\business\delivery-solutions\gardening-diy.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/hello2020?iid=BHP_M1_HELLO2020
+File Name: c:\Downloaded Web Sites\royalmail.com\hello2020.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-05/sme-ecommerce-business-customer-packing-orders-parcels-laptop-540x303.jpg?itok=xZl3rsbD
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-05\sme-ecommerce-business-customer-packing-orders-parcels-laptop-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-03/special-delivery-parcel-collection-business-customer-1920x1440.jpg?itok=sSa6Sdfd
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-03\special-delivery-parcel-collection-business-customer-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2020-03/sustainability-vehicle-540x303.jpg?h=d362f67c&itok=jJmpdq35
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2020-03\sustainability-vehicle-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-05/sme-business-customer-in-office-parcels-1440x551.jpg?itok=RXwLPOGd
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-05\sme-business-customer-in-office-parcels-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-05/sme-business-customer-in-office-parcels-1440x551.jpg?itok=OziB2rcb
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-05\sme-business-customer-in-office-parcels-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-05/sme-business-customer-in-office-parcels-1440x551.jpg?itok=kA_tLaWX
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-05\sme-business-customer-in-office-parcels-1440x551.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/business/parcels/shipping-solutions/pro-shipping
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\shipping-solutions\pro-shipping.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/shipping-solutions/api-shipping
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\shipping-solutions\api-shipping.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/shipping-solutions/bespoke-shipping
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\shipping-solutions\bespoke-shipping.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/parcels/shipping-solutions/third-party-partners
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\shipping-solutions\third-party-partners.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-05/small-business-owner-in-office-540x303.jpg?itok=XlbiUfZb
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-05\small-business-owner-in-office-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-04/sme-business-customer-warehouse-delivery-1920x1440.jpg?itok=PfUuww2T
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-04\sme-business-customer-warehouse-delivery-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-04/marketplace-seller-sector-delivery-1920x640.jpg?itok=x1ivJz-G
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-04\marketplace-seller-sector-delivery-1920x640.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/carrying-box.svg
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\carrying-box.svg
+Content Type: image/svg+xml
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-05/sme-business-customer-process-orders-1440x1081.jpg?itok=E7g2pdYe
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-05\sme-business-customer-process-orders-1440x1081.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-05/sme-business-customer-process-orders-1440x1081.jpg?itok=FygPvzGc
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-05\sme-business-customer-process-orders-1440x1081.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-05/sme-business-customer-process-orders-1440x1081.jpg?itok=-H-SECP8
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-05\sme-business-customer-process-orders-1440x1081.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/business/parcels/contact
+File Name: c:\Downloaded Web Sites\royalmail.com\business\parcels\contact-2.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/case_study/public/2019-11/parcels-app-parcel-sizer-300x185.jpg?itok=SvnKbG8V
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\case_study\public\2019-11\parcels-app-parcel-sizer-300x185.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/case_study/public/2019-03/1920x1440Royal-Mail-postwoman-delivering-parcel-to-house.jpg?itok=Aleumxt2
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\case_study\public\2019-03\1920x1440Royal-Mail-postwoman-delivering-parcel-to-house.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/case_study/public/2019-10/360x300-parcel-postboxes.jpg?itok=MO_JIlh6
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\case_study\public\2019-10\360x300-parcel-postboxes.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-11/customer-receiving-clothes-returns-parcel-540x303.jpg?itok=e7-oQfYs
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-11\customer-receiving-clothes-returns-parcel-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-09/parcel-scanner-machine-modernisation-540x303.jpg?itok=1ZFwXpkO
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-09\parcel-scanner-machine-modernisation-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2020-04/the-big-support-small-business-logo-5050.jpg?h=d362f67c&itok=Qis2s9ed
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2020-04\the-big-support-small-business-logo-5050.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2020-04/holly-5050-sme.jpg?h=d362f67c&itok=2hVgx3sM
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2020-04\holly-5050-sme.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2019-05/ecommerce-online-parcel-delivery-customer-540x303.jpg?itok=covNTzJY
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2019-05\ecommerce-online-parcel-delivery-customer-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/promo_card/public/2020-01/sme-herbs-spices-case-study.jpg?h=5e49a60d&itok=yrxnhZFE
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\promo_card\public\2020-01\sme-herbs-spices-case-study.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-03/special-delivery-parcel-collection-business-customer-1920x1440.jpg?itok=_t1inxoV
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-03\special-delivery-parcel-collection-business-customer-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-03/special-delivery-parcel-collection-business-customer-1920x1440.jpg?itok=lbMTt8a3
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-03\special-delivery-parcel-collection-business-customer-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-03/special-delivery-parcel-collection-business-customer-1920x1440.jpg?itok=SdkEqT-q
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-03\special-delivery-parcel-collection-business-customer-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/business/shipping/online-mail-supplies/apply
+File Name: c:\Downloaded Web Sites\royalmail.com\business\shipping\online-mail-supplies\apply.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/d8/app-research-prize-draw-terms-and-conditions-v2
+File Name: c:\Downloaded Web Sites\royalmail.com\d8\app-research-prize-draw-terms-and-conditions-v2.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/media/oembed?url=https://www.youtube.com/watch%3Fv%3Djbq6l76eF7o&max_width=0&max_height=0&hash=aNX2laKXOdrcmw2yiHKUzxwUYa-zW6k8L-5EEZNTk80
+File Name: c:\Downloaded Web Sites\royalmail.com\media\oembed-4.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/media/oembed?url=https://www.youtube.com/watch%3Fv%3DpOmVegoGvzs&max_width=0&max_height=0&hash=PCmQa1LEFAIZo2DsGkVdZiUHnXDx3UIwTs-3AzvWNoc
+File Name: c:\Downloaded Web Sites\royalmail.com\media\oembed-5.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_1440_x_452/public/2019-10/marketreach-q3-blue-guide-v2.jpg?itok=L03_7-Ez
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_1440_x_452\public\2019-10\marketreach-q3-blue-guide-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/background_image_375_x_292/public/2019-10/marketreach-q3-blue-guide-v2.jpg?itok=itnJlM0D
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\background_image_375_x_292\public\2019-10\marketreach-q3-blue-guide-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/1024_x_452/public/2019-10/marketreach-q3-blue-guide-v2.jpg?itok=Jnghl3-y
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\1024_x_452\public\2019-10\marketreach-q3-blue-guide-v2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_desktop/public/2019-04/mail-letters-at-home-1920x1440.jpg?itok=bpbxF1hY
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_desktop\public\2019-04\mail-letters-at-home-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/intro_mobile/public/2019-04/mail-letters-at-home-1920x1440.jpg?itok=HnIjg_Fz
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\intro_mobile\public\2019-04\mail-letters-at-home-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/business/mail/letters-correspondence
+File Name: c:\Downloaded Web Sites\royalmail.com\business\mail\letters-correspondence.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-06/mail-home-doormat-direct-mail-marketing-540x303.jpg?itok=LMInetcQ
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-06\mail-home-doormat-direct-mail-marketing-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-06/woman-consumer-direct-mail-marketing-catalogue-540x303.jpg?itok=FiJCiW0t
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-06\woman-consumer-direct-mail-marketing-catalogue-540x303.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/styles/540_x_303/public/2019-03/business-customer-on-phone-1920x1440.jpg?itok=zZRxyUd6
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\styles\540_x_303\public\2019-03\business-customer-on-phone-1920x1440.jpg
+Content Type: image/jpeg
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_e_kOGH2oupanRKCpWkLnaEGSXuJ9Mhzn1rkk-yf_5hI.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_e_kOGH2oupanRKCpWkLnaEGSXuJ9Mhzn1rkk-yf_5hI.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/js/js_gCTLUFKqFHBvLIsXRsLOd1To4oujvIQpCw1UQxLZxXo.js
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\js\js_gCTLUFKqFHBvLIsXRsLOd1To4oujvIQpCw1UQxLZxXo.js
+Content Type: application/javascript
+
+Uri: https://www.royalmail.com/business/mail/business-mail/guide
+File Name: c:\Downloaded Web Sites\royalmail.com\business\mail\business-mail\guide.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/business/barcodesavings
+File Name: c:\Downloaded Web Sites\royalmail.com\business\barcodesavings.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-08/royal-mail-business-mail-summary-march-2017.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-08\royal-mail-business-mail-summary-march-2017.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/sites/royalmail.com/files/2019-08/business_mail_user_guide_jan_2018-2290.pdf
+File Name: c:\Downloaded Web Sites\royalmail.com\sites\royalmail.com\files\2019-08\business_mail_user_guide_jan_2018-2290.pdf
+Content Type: application/pdf
+
+Uri: https://www.royalmail.com/?stop_mobi=yes&ref=stop_mobile
+File Name: c:\Downloaded Web Sites\royalmail.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.royalmail.com/atoz
+File Name: c:\Downloaded Web Sites\royalmail.com\atoz.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/user/login?destination=mailing-tools
+File Name: c:\Downloaded Web Sites\royalmail.com\user\login-1.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/receiving-mail/update-your-address
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\receiving-mail\update-your-address.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/user/login?destination=content-type/panel/feed
+File Name: c:\Downloaded Web Sites\royalmail.com\user\login-2.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/personal/receiving-mail/redelivery/book
+File Name: c:\Downloaded Web Sites\royalmail.com\personal\receiving-mail\redelivery\book.html
+Content Type: text/html
+
+Uri: https://www.royalmail.com/user/login?destination=redirections/new/addresses
+File Name: c:\Downloaded Web Sites\royalmail.com\user\login-3.html
+Content Type: text/html
+

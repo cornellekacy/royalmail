@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<g fill="none" stroke-width="2" stroke-linecap="round" stroke="#3296E0">
+    <circle class="cls-2" cx="11.98" cy="11.52" r="6.7"/>
+    <path class="cls-3" d="M20.62 5.81l-.95.96M3.38 5.78l.95.96"/>
+    <path class="cls-2" d="M9.12 18.22V21a2 2 0 0 0 2 2h1.73a2 2 0 0 0 2-2v-2.78"/>
+    <path class="cls-2" d="M10.64 18.22l-.56-5.6a1 1 0 0 1 .9-1.09h1.91a1 1 0 0 1 1 1v.1l-.56 5.6"/>
+    <path class="cls-3" d="M11.98 1v.96M16.77 21.09h-.96M8.16 21.09H7.2"/>
+</g>
+</svg>

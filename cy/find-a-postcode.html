@@ -1,0 +1,799 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="cy" xml:lang="cy" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Cymraeg Postcode and Address Finder | Royal Mail Group Ltd</title>
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" src="https://www.bing.com/mapspreview/sdk/mapcontrol"></script>
+<!--[if IE 8 ]><script type="text/javascript" src="https://www.royalmail.com/sites/all/modules/shared/knowledge_base/js/polyfill-indexof.js"></script><![endif]-->
+<script type="text/javascript" src="//personal.help.royalmail.com/euf/rightnow/RightNow.Client.js"></script>
+<link rel="shortcut icon" href="..\sites\all\themes\royalmail2017\favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="//services.postcodeanywhere.co.uk/css/address-3.50.min.css">
+<script type="text/javascript" src="//services.postcodeanywhere.co.uk/js/address-3.50.min.js"></script>
+<meta name="description" content="Use Royal Mail's Postcode and Address Finder to search for any UK address or postal code. Simply type part of the address for a list of suggestions.">
+<link rel="canonical" href="find-a-postcode.html">
+        <link type="text/css" rel="stylesheet" media="all" href="..\sites\default\files\advagg_css\css_ee162d7f86076aefb5672ab71bcab812_7040.css">
+<link type="text/css" rel="stylesheet" media="all" href="..\sites\default\files\advagg_css\css_f2b7c337982b3de530246dd95ddc73c9_5910.css">
+<link type="text/css" rel="stylesheet" media="all" href="..\sites\default\files\advagg_css\css_fd755dba2605c6c17d21536fe9ae7f08_7027.css">
+<link type="text/css" rel="stylesheet" media="all" href="..\sites\default\files\advagg_css\css_f110b5354630d673d08259c6c0511bd6_7042.css">
+<link type="text/css" rel="stylesheet" media="print" href="..\sites\default\files\advagg_css\css_603e10ba25c26d1c9cfc0c111c54484e_7041.css">
+
+  <!--[if lte IE 8]>
+  <script>
+    document.createElement("footer");
+    document.createElement("header");
+    document.createElement("main");
+    document.createElement("article");
+    document.createElement("aside");
+  </script>
+  <![endif]-->
+  <script type="text/javascript" src="..\sites\default\files\advagg_js\js_b7bbade12a262be64ef129abe8f6424c_2023.js"></script>
+<script type="text/javascript" src="..\sites\default\files\advagg_js\js_c1d27cccd37fe16c73540d5dbb25c1e9_7041.js"></script>
+<script type="text/javascript" src="..\sites\default\files\advagg_js\js_9aed6f005738505f05116ecaa06707ba_7040.js"></script>
+<script type="text/javascript" src="..\sites\default\files\advagg_js\js_8437dbc0fd46c60693780c3a19eae129_7043.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","automodal":{".automodal":{"autoFit":true,"draggable":false,"width":460,"height":500,"automodalClose":true,"automodalReload":false}},"bingMapsGeoCodeURL":"\/\/dev.virtualearth.net\/REST\/v1\/Locations","cookie_policy":{"cookiePolicyDomain":".royalmail.com","cookiePolicyPopupTitle":"","cookiePolicyPopupPageName":""},"CToolsModal":{"loadingText":"Loading...","closeText":["Close Window","Cau"],"closeImage":"\u003Cimg src=\u0022\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022  \/\u003E","throbber":"\u003Cimg src=\u0022\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading...\u0022  \/\u003E","modalTheme":"RoyalMail2017ModalDialog","modalSize":{"type":"static","width":660,"height":"auto","addWidth":0,"addHeight":0}},"rmlPostcodeFinder":{"enabled":true,"default_value":50,"warning":5,"day_of_year":"111","cookie_name":"RoyalMailPostCode"},"capturePlus":{"cp_search":{"setCursor":false,"countries":{"codesList":"GBR"},"list":{"width":590,"height":200},"bar":{"visible":false},"culture":"cy-GB","key":"BJ92-ZJ43-NW29-EC78","inlineMessages":true,"name":"cp-search"}},"postcodeFinderCapturePlusText":{"no_results":"\u003Cdiv class=\u0022capture-plus-message\u0022\u003E\n      \u003Cdiv class=\u0022color-grey-light padding10\u0022\u003E\n      \u003Cp\u003E\u003Cspan class=\u0022capture-plus-message-text\u0022\u003ENid oeddwn yn gallu dod o hyd i unrhyw beth i gydweddu \u00e2 \u003Cspan class=\u0022strong term\u0022\u003E@term\u003C\/span\u003E\u003C\/span\u003E\u003C\/p\u003E\n    \u003C\/div\u003E\n  \n      \u003Cdiv class=\u0022color-white subtext\u0022\u003E\n      \u003Cp\u003E\u003Cspan class=\u0022capture-plus-message-subtext\u0022\u003EGwiriwch y sillafiad a chwiliwch eto. \u003Cbr \/\u003E Methu dod o hyd i\u0027r cyfeiriad neu\u0027r c\u00f4d post yr oeddech yn chwilio amdano? \u003Ca href=\u0022\/cy\/find-a-postcode\/nojs\/enquiry\u0022 class=\u0022ctools-use-modal \u0022 title=\u0022Rhowch wybod i ni\u0022\u003ERhowch wybod i ni\u003C\/a\u003E\u003C\/span\u003E\u003C\/p\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n","results_count_continue":"\u003Cdiv class=\u0022capture-plus-message\u0022\u003E\n      \u003Cdiv class=\u0022color-grey-light padding10\u0022\u003E\n      \u003Cp\u003E\u003Cspan class=\u0022capture-plus-message-text\u0022\u003Ecydweddiadau \u003Cspan class=\u0022count\u0022\u003E{ContainerCount}\u003C\/span\u003E. Teipiwch fwy o\u0027r cyfeiriad i wella eich canlyniadau.\u003C\/span\u003E\u003C\/p\u003E\n    \u003C\/div\u003E\n  \n  \u003C\/div\u003E\n","results_count":"\u003Cdiv class=\u0022capture-plus-message\u0022\u003E\n      \u003Cdiv class=\u0022color-grey-light padding10\u0022\u003E\n      \u003Cp\u003E\u003Cspan class=\u0022capture-plus-message-text\u0022\u003Ecydweddiadau \u003Cspan class=\u0022count\u0022\u003E{ContainerCount}\u003C\/span\u003E\u003C\/span\u003E\u003C\/p\u003E\n    \u003C\/div\u003E\n  \n  \u003C\/div\u003E\n","results_single_continue":"\u003Cdiv class=\u0022capture-plus-message\u0022\u003E\n      \u003Cdiv class=\u0022color-grey-light padding10\u0022\u003E\n      \u003Cp\u003E\u003Cspan class=\u0022capture-plus-message-text\u0022\u003Ecydweddiadau \u003Cspan class=\u0022count\u0022\u003E{ContainerCount}\u003C\/span\u003E. Teipiwch fwy o\u0027r cyfeiriad i wella eich canlyniadau.\u003C\/span\u003E\u003C\/p\u003E\n    \u003C\/div\u003E\n  \n  \u003C\/div\u003E\n","results_single":"\u003Cdiv class=\u0022capture-plus-message\u0022\u003E\n      \u003Cdiv class=\u0022color-grey-light padding10\u0022\u003E\n      \u003Cp\u003E\u003Cspan class=\u0022capture-plus-message-text\u0022\u003Ecydweddiadau \u003Cspan class=\u0022count\u0022\u003E{ContainerCount}\u003C\/span\u003E\u003C\/span\u003E\u003C\/p\u003E\n    \u003C\/div\u003E\n  \n  \u003C\/div\u003E\n"},"nodeLocaleMessages":{"rml_postcode_finder.limit_message":"Mae genych \u003Cspan class=\u0022current-limit\u0022\u003E@value\u003C\/span\u003E chwiliad cyfeiriad yn weddill heddiw","rml_postcode_finder.lower_limit_message":"Mae genych \u003Cspan class=\u0022current-limit\u0022\u003E@value\u003C\/span\u003E chwiliad cyfeiriad yn weddill heddiw","rml_postcode_finder.one_search_message":"Mae genych \u003Cspan class=\u0022current-limit\u0022\u003E@value\u003C\/span\u003E chwiliad cyfeiriad yn weddill heddiw","rml_postcode_finder.limit_reached_message":"Rydych wedi defnyddio bob un o\u2019ch \u003Cspan class=\u0022current-limit\u0022\u003E@value\u003C\/span\u003E chwiliad ar gyfer heddiw","rml_postcode_finder.limit_cookies_disabled_message":"Mae angen galluogi cwcis er mwyn dod o hyd i g\u00f4d post a chyfeiriad","rml_postcode_finder.limit_cookies_disabled_heading":"Ymddengys bod cwcis wedi eu hanalluogi ar eich porwr.","rml_postcode_finder.limit_cookies_disabled_text":"Mae angen galluogi cwcis er mwyn dod o hyd i g\u00f4d post a chyfeiriad, gwnewch yn si\u0175r bod y rhain wedi eu galluogi.","rml_postcode_finder.dialog_close":"Cau","rml_postcode_finder.search_field.accessibility_status_update":"There are {ContainerCount} results. Use the up and down arrow keys to navigate."},"bingMapsMaps":{"postcodefinder_map":{"id":"postcodefinder-map","location":null,"key":"Au90_vauPZSR_KOGvU4oreYe0YzH-pT5rbFGftyWY2fKY9uRuB-1A5mq8UVkEuBj","mapOptions":{"enableClickableLogo":true,"enableSearchLogo":true,"showCopyright":true,"showDashboard":true,"showMapTypeSelector":true,"showScalebar":true,"zoom":14,"mapTypeId":"auto"},"pinOptions":{"show_pin":true,"show_info_box":false,"info_box":{"title":"","description":""}}}},"contentOverlay":{"selector":"a[data-nid], a.content-overlay","dialogSettings":{"closeText":"Cau"}},"loginRegisterDialogSelector":"#save-this-address","CToolsUrlIsAjaxTrusted":{"\/cy\/find-a-postcode":true,"https:\/\/www.royalmail.com\/user\/login":true,"https:\/\/www.royalmail.com\/search":true},"kbsw":{"conf":{"module":"KnowledgeSyndication","type":3,"instance_id":"kbsw_4","correction":false,"description":false,"display_answers_in_overlay":true,"hide_initial_answers":false,"label_correction":"Did You Mean:","label_created":"Created: %s","label_documents":"Recommended Documents","label_more_results":"See all Help \u0026 Support","label_no_results":"Sorry, there are no matches for your search.","label_related_searches":"Other Suggested Searches:","label_search_button":"Get answer","label_updated":"Updated: %s","navigation":true,"number_answers":"5","payload_size":"150","persist_prodcat":false,"preprocess":"pagescraper","q":"","recommended":false,"related":false,"search_box":false,"target":"_self","truncate_size":"100","context":"","ext_docs":false,"c":"","p":"744,745","div_id":"kb-widget","widget_description":"","widget_type":"kbsw_restricted"},"apiUrl":"\/\/personal.help.royalmail.com\/ci\/ws\/get"},"rml_persona":{"persona":"personal","cookie_domain":".royalmail.com"},"cssInit":{"book.css":true,"node.css":true,"defaults.css":true,"system.css":true,"system-menus.css":true,"user.css":true,"attribute.css":true,"modalframe.parent.css":true,"content-module.css":true,"ckeditor.css":true,"ctools.css":true,"date.css":true,"jquery-ui.css":true,"datepicker.css":true,"jquery.timeentry.css":true,"filefield.css":true,"nice_menus.css":true,"nice_menus_default.css":true,"panels.css":true,"rate.css":true,"twitter-pull-listing.css":true,"datepicker.1.7.css":true,"rmg_help_layout.css":true,"rmg_help_style.css":true,"fieldgroup.css":true,"views.css":true,"modal.css":true,"bing_maps.css":true,"rml_postcode_finder.css":true,"login_register_dialog.css":true,"oms.css":true,"common_block_register_signin.css":true,"knowledge_base_syndicated_widget.css":true,"rml_login.css":true,"pricefinder.css":true,"ftn.css":true,"jquery-ui-1.7.3.custom.css":true,"Reset.css":true,"Color.css":true,"Typography.css":true,"Common.css":true,"Link.css":true,"Layout.css":true,"Global.css":true,"home.css":true,"Menu.css":true,"Form.css":true,"Component.css":true,"Table.css":true,"admin.css":true,"apps.css":true,"royalmail2017.css":true},"jsInit":{"misc\/jquery.js":true,"misc\/drupal.js":true,"sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/ui\/minified\/ui.core.min.js":true,"sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/ui\/minified\/ui.dialog.min.js":true,"sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/ui\/minified\/ui.draggable.min.js":true,"sites\/all\/modules\/contrib\/modalframe\/js\/parent.js":true,"sites\/all\/modules\/contrib\/automodal\/automodal.js":true,"sites\/all\/modules\/contrib\/nice_menus\/nice_menus.js":true,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":true,"sites\/all\/modules\/custom\/cookie_policy\/js\/cookie_policy_h.js":true,"sites\/all\/modules\/custom\/redesign\/rml_eps\/js\/eps.js":true,"sites\/all\/modules\/custom\/rmg_help\/js\/rmg_help.js":true,"sites\/all\/modules\/site_features\/rmlr_promo\/rmlr_promo.js":true,"misc\/jquery.form.js":true,"sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":true,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":true,"sites\/all\/modules\/contrib\/jquery_plugin\/jquery.cookie.min.js":true,"sites\/all\/modules\/custom\/capture_plus\/js\/capture_plus.js":true,"sites\/all\/modules\/custom\/node_locale_messages\/js\/nlt.js":true,"sites\/all\/modules\/custom\/rml_postcode_finder\/js\/rml_postcode_finder_overlay.js":true,"sites\/all\/modules\/custom\/bing_maps\/js\/bing_maps.js":true,"sites\/all\/modules\/custom\/rml_postcode_finder\/js\/rml_postcode_finder_capture_plus.js":true,"sites\/all\/modules\/custom\/rml_postcode_finder\/js\/json2.min.js":true,"sites\/all\/modules\/custom\/rml_content_service\/js\/content_overlay.js":true,"sites\/all\/modules\/custom\/common_block_register_signin\/js\/login_register_dialog.js":true,"sites\/all\/modules\/shared\/knowledge_base\/js\/sw-instance.js":true,"sites\/all\/modules\/custom\/responsive\/rml_resp_account_block\/js\/account_block.js":true,"sites\/all\/modules\/custom\/rml_login\/js\/rml_login.js":true,"sites\/all\/modules\/custom\/rml_persona\/rml_persona.js":true,"sites\/all\/themes\/royalmail2017\/js\/jquery-ui-1.8.16.custom.min.js":true,"sites\/all\/themes\/royalmail2017\/js\/slides.jquery.js":true,"sites\/all\/themes\/royalmail2017\/js\/slider_rm.js":true,"sites\/all\/themes\/royalmail2017\/js\/help.js":true,"sites\/all\/themes\/royalmail2017\/js\/hoverIntent.js":true,"sites\/all\/themes\/royalmail2017\/js\/jquery.easing.js":true,"sites\/all\/themes\/royalmail2017\/js\/jquery.jscrollpane.min.js":true,"sites\/all\/themes\/royalmail2017\/js\/jquery.rm.global.2011.js":true,"sites\/all\/themes\/royalmail2017\/js\/jquery.rm.init.2011.js":true,"sites\/all\/themes\/royalmail2017\/js\/megamenu.js":true,"sites\/all\/themes\/royalmail2017\/js\/extlink.js":true,"sites\/all\/themes\/royalmail2017\/js\/jquery.tooltip.js":true,"sites\/all\/themes\/royalmail2017\/js\/jquery.1.4.2.extract.js":true,"sites\/all\/themes\/royalmail2017\/js\/search.js":true,"sites\/all\/themes\/royalmail2017\/js\/equalheight.js":true,"sites\/all\/themes\/royalmail2017\/js\/jquery.once.min.js":true}});
+//--><!]]>
+</script>
+</head>
+<!--[if lt IE 7 ]>
+<body class="ie ie6 lt-ie9 not-front not-logged-in page-find-a-postcode no-sidebars"> <![endif]-->
+<!--[if IE 7 ]>
+<body class="ie ie7 lt-ie9 not-front not-logged-in page-find-a-postcode no-sidebars"> <![endif]-->
+<!--[if IE 8 ]>
+<body class="ie ie8 lt-ie9 not-front not-logged-in page-find-a-postcode no-sidebars"> <![endif]-->
+<!--[if IE 9 ]>
+<body class="ie ie9 not-front not-logged-in page-find-a-postcode no-sidebars"> <![endif] -->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<body class="not-front not-logged-in page-find-a-postcode no-sidebars"> <!--<![endif]-->
+  <script type="text/javascript">
+  // Teallium js Fix.
+  if (typeof(window.s) === "undefined") {
+    window.s = new Object;
+  }
+
+  
+  // utag_data data layer.
+  var utag_data = {"pageApplicationName":"Postcode Finder","pageBreadCrumb":"Home|Cymraeg Postcode and Address Finder","pageLanguage":"cy","pageName":"RM Web Application >Postcode Finder","visitorSegment":null,"pagePersona":"personal"};
+
+  // Function to invoke tealium call from JS i.e. overlay tracking and angular js apps.
+  function tealium_tag_overlay(new_tags) {
+    if ($.isArray(new_tags)) {
+      for (key in new_tags) {
+        utag_data[key] = new_tags[key];
+      }
+      window.trackOverlay(utag_data);
+    }
+  }
+</script>
+
+  <script src="//tags.tiqcdn.com/utag/royalmail/main/prod/utag.js"></script>
+
+  <!--[if lte IE 7 ]><div class="unsupported-browser"><div class="unsupported-browser__content"><div class="warning-icon"></div>We have noticed that you are using an older version of Internet Explorer to access this site. This version is not supported on this site. You may wish to <a href="http://windows.microsoft.com/en-gb/internet-explorer/download-ie" target="_blank">upgrade to the latest version of Internet Explorer</a></div></div><![endif]-->
+  <header class="l-header">
+    <div class="l-header__first-row">
+      <div class="l-header__first-row-container">
+        <a href="#maincontent" class="skipnav">Skip to main content</a>
+        
+        <div class="l-header__first-row-first-nav">
+          <div class=" block block-rml_resp_account_block">
+  
+  <div class="overlay-menu">
+  <span class="overlay-menu__overlay-toggle rml-account-block-title hidden" aria-expanded="false">Log in / Register</span>
+  <div class="my-account login-overlay-box" aria-hidden="true">
+          <h2 class="rml-account-block-secure-title">Log in securely</h2>
+        <span class="rml-account-name-title"></span>
+    <div class="rml-resp-account-block-body">
+      <form action="https://www.royalmail.com/user/login" accept-charset="UTF-8" method="post" id="user_login">
+<div>
+<div class="appfield">
+    
+      <div class="input-wrapper">
+  
+  <div class="form-item" id="edit-name-1-wrapper">
+ <label for="edit-name-1">Email address <span class="app-alt-text">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name-1" size="60" value="" class="form-text required">
+</div>
+  <div class="form-item" id="edit-pass-1-wrapper">
+ <label for="edit-pass-1">Password <span class="app-alt-text">*</span></label>
+ <input type="password" name="pass" id="edit-pass-1" maxlength="128" size="60" class="form-text required">
+</div>
+
+      </div>
+    <div>
+    <p class="right-wrapper">8 or more characters containing at least one letter and one number</p>
+          <div class="clearboth"></div>
+    <div class="login-overlay-box__account-help">
+      <ul>
+        <li><a href="..\password-reminder.html">Email my password reminder</a></li>
+        <li><a href="..\password-request\reset.html">Send me a new password</a></li>
+      </ul>
+     </div>
+     <div class="button-new button-new__primary button-new__submit"><input type="submit" name="op" id="edit-submit" value="Log in" class="form-submit login-button primary">
+</div>
+     <h2 class="login-overlay-box__register-area">Not registered yet?</h2>
+     <div class="button-new button-new__primary button-new__submit register"><a href="/cy/user/register" class="register-button inline-register">Register</a></div>
+     <div class="clearboth"></div>
+   </div>
+  
+   <input type="hidden" name="form_build_id" id="form-mByuIKEQ8BWMiXndN0l4EVNNux0FEpy3biwa2Vrql5Y" value="form-mByuIKEQ8BWMiXndN0l4EVNNux0FEpy3biwa2Vrql5Y">
+<input type="hidden" name="form_id" id="edit-user-login" value="user_login">
+</div>
+
+</div></form>
+<ul class="menu"><li class="leaf first"><span class="nolink">Other Royal Mail accounts</span></li>
+<li class="leaf"><a href="/cy/node/19354206">Online Business Account login</a></li>
+<li class="leaf last"><a href="https://parcel.royalmail.com/" target="_blank">Click &amp; Drop</a></li>
+</ul>    </div>
+  </div>
+</div>
+
+</div>
+<div class="block-menu-global-left global-nav-first">
+  <ul class="menu"><li class="leaf first"><a href="https://personal.help.royalmail.com/">Help</a></li>
+<li class="leaf"><a href="..\services-near-you.html">Our locations</a></li>
+<li class="leaf last"><a href="https://m.royalmail.com/h5/user?id=login" class="global-nav__account-link">Log In / Register</a></li>
+</ul></div>
+        </div>
+        <div class="l-header__first-row-second-nav">
+          <div class="block-menu-global-right global-nav-second">
+  <ul class="menu"><li class="leaf first"><a href="/cy">Personal</a></li>
+<li class="leaf last"><a href="..\business.html">Business</a></li>
+</ul></div>
+        </div>
+      </div>
+    </div>
+    <div class="l-header__second-row">
+      <div class="l-header__second-row-container">
+        <div class="l-header__second-row-logo header-logo">
+          <a href="/cy"><img src="..\sites\all\themes\royalmail2017\img\royalmail-logo.png" alt="Royal Mail Logo"></a>        </div>
+        <div class="l-header__second-row-nav">
+          
+<div class="block-menu-useful-links useful-links-nav">
+  <ul class="menu"><li class="leaf first"><a href="track-your-item.html#/">Track your item</a></li>
+<li class="leaf active-trail"><a href="find-a-postcode.html" class="active">Find a postcode</a></li>
+<li class="leaf"><a href="/cy/price-finder">Get a price</a></li>
+<li class="leaf"><a href="/cy/node/19353861">Redelivery</a></li>
+<li class="leaf last"><a href="/cy/node/23584012">Pay a fee</a></li>
+</ul></div>
+        </div>
+        <div class="l-header__second-row-search-form header-search-form">
+          <form action="https://www.royalmail.com/search" accept-charset="UTF-8" method="post" id="search-theme-form" role="search">
+<div>
+<div class="search-form">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label class="scr-hide" for="edit-search-theme-form-1">Search this site</label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" class="form-text NormalTextBox txtSearch" onfocus="if (this.value != &#039;&#039;) {this.value = &#039;&#039;;}" placeholder="Search">
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Search" onclick="return validateSearch(document.getElementById(&#039;edit-search-theme-form-1&#039;))" class="form-submit">
+<input type="hidden" name="form_build_id" id="form-nnhcs4CYvoKMLV_KXBWxt-FfpJN6B5tUV05tVskRj6o" value="form-nnhcs4CYvoKMLV_KXBWxt-FfpJN6B5tUV05tVskRj6o">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+</div>
+
+</div></form>
+        </div>
+      </div>
+    </div>
+    <div class="l-header__third-row megamenu-wrapper">
+      <div class="l-header__third-row-container">
+        <div class="l-header__third-row-nav">
+            <ul class="megamenu-menu" role="navigation">
+      <li class="megamenu-parent megamenu-parent-title first sending-mail"><a href="/cy/node/19353881" class="link-parent"><span>Sending mail</span></a><ul class="megamenu-bin"><li class="megamenu-slot"><div class="ddcontent">
+  <div class="cols col3">
+    <div class="col left">
+      <dl><dt>Tools</dt><dd><a href="https://parcel.royalmail.com">Buy postage online</a></dd>
+<dd><a href="..\track-my-return\pick-a-retailer.html">Return an item</a></dd>
+<dd><a href="..\services-near-you.html">Find a service near you</a></dd>
+<dd><a href="https://shop.royalmail.com/postage-and-packaging/first-and-second-class-stamps">Shop for stamps</a></dd>
+<dd><a href="..\find-a-postcode.html">Find a postcode</a></dd>
+</dl>    </div>
+    <div class="col left">
+      <dl><dt>UK parcels and letters</dt><dd><a href="..\sending\uk\special-delivery-guaranteed-9am.html">Special Delivery Guaranteed by 9am</a></dd>
+<dd><a href="..\sending\uk\special-delivery-guaranteed-1pm.html">Special Delivery Guaranteed by 1pm</a></dd>
+<dd><a href="..\sending\uk\tracked-24.html">Royal Mail Tracked 24®</a></dd>
+<dd><a href="..\sending\uk\tracked-48.html">Royal Mail Tracked 48®</a></dd>
+<dd><a href="..\sending\uk\1st-class.html">1st Class</a></dd>
+<dd><a href="..\sending\uk\2nd-class.html">2nd Class</a></dd>
+<dd><a href="..\sending\uk\special-delivery-guaranteed-1pm.html">Sameday courier</a></dd>
+<dd><a href="..\sending\uk.html">All UK services and prices</a></dd>
+</dl>    </div>
+    <div class="col left">
+      <dl><dt>International</dt><dd><a href="..\sending\international\international-tracked-signed.html">International Tracked and Signed</a></dd>
+<dd><a href="..\sending\international\international-tracked.html">International Tracked</a></dd>
+<dd><a href="..\sending\international\international-standard.html">International Standard</a></dd>
+<dd><a href="..\sending\international\country-guides.html">Country customs and restrictions</a></dd>
+<dd><a href="..\sending\international.html">All international services and prices</a></dd>
+</dl>    </div>
+  </div>
+  <div class="ddlink clearboth">
+    <div class="field field-type-link field-field-menuitem-cta-link">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="..\sending.html">All sending services</a>        </div>
+        </div>
+</div>
+  </div>
+</div>
+</li></ul></li>
+      <li class="megamenu-parent megamenu-parent-title track-and-manage"><a href="/cy/node/19353911" class="link-parent"><span>Track and manage</span></a><ul class="megamenu-bin"><li class="megamenu-slot"><div class="ddcontent">
+  <div class="cols col3">
+    <div class="col left">
+      <dl><dt>Tools</dt><dd><a href="track-your-item.html">Track your item</a></dd>
+<dd><a href="/cy/node/19353861">Arrange a Redelivery</a></dd>
+<dd><a href="..\track-my-return\pick-a-retailer.html">Return an item</a></dd>
+<dd><a href="/cy/node/23584012">Pay a fee</a></dd>
+<dd><a href="..\services-near-you.html">Find your delivery office</a></dd>
+</dl>    </div>
+    <div class="col left">
+      <dl><dt>Moving?</dt><dd><a href="/cy/node/19353855">Redirect your mail</a></dd>
+</dl>    </div>
+    <div class="col left">
+      <dl><dt>Going away?</dt><dd><a href="..\receiving\keepsafe.html">Hold my mail</a></dd>
+</dl><dl><dt>Get a PO Box</dt><dd><a href="..\receiving\po-box.html">Apply for a PO Box</a></dd>
+</dl>    </div>
+  </div>
+  <div class="ddlink clearboth">
+    <div class="field field-type-link field-field-menuitem-cta-link">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="..\receiving.html">See all receiving services</a>        </div>
+        </div>
+</div>
+  </div>
+</div>
+</li></ul></li>
+      <li class="megamenu-parent megamenu-parent-title second-last shop"><a href="/cy/node/19354271" class="link-parent"><span>Shop</span></a><ul class="megamenu-bin"><li class="megamenu-slot"><div class="ddcontent">
+  <div class="cols col3">
+    <div class="col left">
+      <dl><dt>Postage and packaging</dt><dd><a href="https://shop.royalmail.com/postage-and-packaging/first-and-second-class-stamps">1st and 2nd Class stamps</a></dd>
+<dd><a href="https://shop.royalmail.com/postage-and-packaging/envelopes">Envelopes</a></dd>
+<dd><a href="https://shop.royalmail.com/postage-and-packaging/packaging-materials">Packaging materials</a></dd>
+<dd><a href="https://shop.royalmail.com/online-mail-supplies">Business mail supplies</a></dd>
+<dd><a href="https://shop.royalmail.com/postage-and-packaging">All postage and packaging</a></dd>
+</dl>    </div>
+    <div class="col left">
+      <dl><dt>Special stamp issues</dt><dd><a href="https://shop.royalmail.com/special-stamp-issues/visions-of-the-universe">Visions of the Universe</a></dd>
+<dd><a href="https://shop.royalmail.com/special-stamp-issues/video-games">Video Games</a></dd>
+<dd><a href="https://shop.royalmail.com/special-stamp-issues/gruffalo">The Gruffalo</a></dd>
+<dd><a href="https://shop.royalmail.com/special-stamp-issues/royal-navy-ships">Royal Navy Ships</a></dd>
+<dd><a href="..\sending\stamps.html">2020 stamp calendar</a></dd>
+<dd><a href="https://shop.royalmail.com/special-stamp-issues">All special stamps</a></dd>
+</dl>    </div>
+    <div class="col left">
+      <dl><dt>Collectibles and gifts</dt><dd><a href="https://shop.royalmail.com/collectibles-and-gifts/presentation-packs-and-sets">Presentation packs</a></dd>
+<dd><a href="https://shop.royalmail.com/collectibles-and-gifts/framed-stamps-and-prints">Framed stamps and prints</a></dd>
+<dd><a href="https://shop.royalmail.com/catalog/category/view/s/first-day-covers/id/109/">First Day Covers</a></dd>
+<dd><a href="https://shop.royalmail.com/collectibles-and-gifts/coins-and-medals">Coins and medals</a></dd>
+<dd><a href="https://shop.royalmail.com/collectibles-and-gifts/bundles">Bundles</a></dd>
+<dd><a href="https://shop.royalmail.com/collectibles-and-gifts">All collectibles and gifts</a></dd>
+</dl>    </div>
+  </div>
+  <div class="ddlink clearboth">
+    <div class="field field-type-link field-field-menuitem-cta-link">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="http://shop.royalmail.com/">Visit Shop</a>        </div>
+        </div>
+</div>
+  </div>
+</div>
+</li></ul></li>
+      <li class="megamenu-parent megamenu-parent-title last help---support"><a href="https://personal.help.royalmail.com" class="link-parent"><span>Help &amp; support</span></a><ul class="megamenu-bin"><li class="megamenu-slot"><div class="ddcontent">
+  <div class="cols col2">
+    <div class="col left">
+      <dl><dt>Help with tracking</dt><dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/52">Track your item help</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/62">Tracking international items</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/756/">What our tracking messages mean</a></dd>
+</dl><dl><dt>Get in touch</dt><dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/12556">Latest service updates</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/325">How to make a claim</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/307">How do I make a complaint?</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/contact">Contact Royal Mail</a></dd>
+</dl>    </div>
+    <div class="col left">
+      <dl><dt>Help with your mail</dt><dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/89">Letter and parcel size guide</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/96">Restrictions and prohibitions</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/86">Wrapping and packaging your mail</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/106/">Customs information</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/248">Redirection support</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/81">How to address your mail</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/141/">Help with a Redelivery</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/317/">I think my mail is lost</a></dd>
+<dd><a href="https://personal.help.royalmail.com/app/answers/detail/a_id/5293">When we can&#039;t deliver</a></dd>
+</dl>    </div>
+  </div>
+  <div class="ddlink clearboth">
+    <div class="field field-type-link field-field-menuitem-cta-link">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <a href="https://personal.help.royalmail.com">See all help &amp; support</a>        </div>
+        </div>
+</div>
+  </div>
+</div>
+</li></ul></li>
+  </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="row-wrap content-wrap">
+    <div class="row-990">
+      <div class="breadcrumb"><div class="item-list"><ul><li class="first"><a href="/cy">Home</a></li>
+<li class="last">Cymraeg Postcode and Address Finder</li>
+</ul></div></div>
+          <div id="maincontent">
+    
+          <div class=" block block-rml_eps">
+  
+  <div class="eps right">
+  <ul>
+           
+          <li class="eps-e"><a href="/cy/node/19353589/popup?destination=find-a-postcode&pageName=RM%20" id="email" class="automodal"><span>Email</span></a></li>
+        <li class="eps-p"><a href="#2" id="print"><span>Print</span></a></li>
+        <li class="eps-s"><a href="#3" id="share"><span>Share</span></a></li>
+      </ul>
+</div>
+<div id="share-window" class="share-overlay color-white padding13t18lrb addthis_toolbox">
+  <a class="close" name="close" href="#">Close</a>
+  <p class="header">Share this page</p>
+  <ul class="custom_images">
+    <li>
+      <a class="addthis_button_facebook">
+        <img width="50" height="51" alt="Facebook - Opens in a new window" src="..\sites\all\themes\royalmail2017\img\icon\facebook.jpg">
+      </a>
+    </li>
+    <li>
+      <a class="addthis_button_twitter">
+        <img width="50" height="51" alt="Twitter - Opens in a new window" src="..\sites\all\themes\royalmail2017\img\icon\twitter.jpg">
+      </a>
+    </li>
+    <li>
+      <a class="addthis_button_linkedin">
+        <img width="50" height="51" alt="Linked in - Opens in a new window" src="..\sites\all\themes\royalmail2017\img\icon\linked.jpg">
+      </a>
+    </li>
+    <li class="last">
+      <a class="addthis_button_google">
+        <img width="50" height="51" alt="Google - Opens in a new window" src="..\sites\all\themes\royalmail2017\img\icon\google.jpg">
+      </a>
+    </li>
+  </ul>
+  <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script>
+</div>
+
+</div>
+
+          <div class="title left">
+            <h1>Cymraeg Postcode and Address Finder</h1>
+                      <p class="strapline">Fill in the details you know and we&#039;ll do the rest</p>
+          
+          
+          </div>
+          <div class="clearboth"></div>
+
+      
+        <div role="main">
+          
+<div id="rml-postcode-finder">
+
+<div class="leftsidebar container container_4 left">
+      <div class="panel-pane pane-rml-postcode-finder-form">
+  
+  
+  
+  <div class="pane-content rml_postcode_finder_form">
+    <div class="postcode-finder-main grid_4">
+
+  <noscript>
+    <div class="postcode-finder-no-js">
+      <div class="padding10 right">
+        <a href="..\find-a-postcode.html" class="white-arrow-right" lang="en" hreflang="en">English version</a>      </div>
+      <div class="padding20">
+        <p>Yn anffodus, ni fydd y Canfyddwr Côd Post yn gweithio am fod JavaScript wedi ei analluogi ar eich porwr gwe.</p>
+            <p>Ffyrdd o ddatrys hyn:</p>
+            <ol>
+            <li>Galluogi JavaScript trwy osodiadau eich porwr</li>
+            <li>Rhoi royalmail.com yn rhestr ddibynadwy eich meddalwedd diogelwch rhyngrwyd</li>
+            <li>Analluogi unrhyw ataliwr hysbysebion neu naidlen sydd yn rhedeg</li>
+            <li>Gosod/Diweddaru i borwr sy'n cefnogi JavaScript</li>
+            </ol>      </div>
+    </div>
+  </noscript>
+
+  <div class="rml-postcode-finder-header padding20">
+    <h2>Teipiwch ran o gyfeiriad neu gôd post i ddechrau</h2>
+    <a href="..\find-a-postcode.html" class="white-arrow-right" id="language-switcher" lang="en" hreflang="en">English version</a>  </div>
+
+  <div class="color-lightest-grey padding20">
+    <span class="scr-hide">Wrth i chi deipio, bydd y blwch hwn yn cwblhau’n awtomatig gydag awgrymiadau sy’n cydweddu.  Felly rhowch y wybodaeth sy’n hysbys, yna dewiswch y cyfeiriad yr ydych ei eisiau o’r canlyniadau sy’n ymddangos</span>
+    <div class="form-item" id="cp-search-wrapper">
+ <label for="cp-search"><span class="scr-hide">Teipiwch ran o gyfeiriad neu gôd post i ddechrau</span></label>
+ <input type="text" name="cp-search" id="cp-search" value="" placeholder="E.e. &#039;CR0 3RL&#039; neu &#039;36 Factory Lane&#039;" class="form-text search-box capture-plus">
+</div>
+    <div class="rml_postcode_finder_limit">
+  <div class="limit-text padding20t">
+    <div class="message-wrapper">
+      <span class="limit-message"></span>
+    </div>
+    <div class="message-wrapper message-links">
+      <span class="find-out-more"><a href="find-a-postcode.html" class="rml-postcode-finder-overlay-link overlay-link active" rel="find_out_more">Pam rydym yn gosod terfyn?</a></span>
+      <br>
+      <span class="alias-addresses"><a href="find-a-postcode.html" class="rml-postcode-finder-overlay-link overlay-link active" rel="alias_addresses">Cyfeiriadau Arallenw</a></span>
+    </div>
+  </div>
+</div>
+    <div class="rml_postcode_finder_disabled_text padding10t display_none">
+  <p class="block-title">
+    Byddwch yn gallu chwilio eto yfory.  </p>
+  <p class="block-text">
+    Os yw eich busnes yn chwilio am fwy na 50 o gyfeiriadau y dydd yn rheolaidd, gweler ein tudalen <a href="http://www.poweredbypaf.com/">Cynnyrch Rheoli Cyfeiriadau</a> neu ffoniwch <span class="strong">0845 606 6854</span> am fwy o wybodaeth.  </p>
+</div>
+  </div>
+
+  <div title="Pam rydym yn gosod terfyn ar chwiliadau?" id="find_out_more" class="rml-postcode-finder-overlay overlay display_none">
+  <p>Mae ein Canfyddwr Côd Post a Chyfeiriad ar gyfer cwsmeriaid sydd angen chwilio am fanylion cyfeiriad weithiau.</p><p>Os yw eich busnes yn chwilio am fwy na 50 o gyfeiriadau y dydd yn rheolaidd, rydym yn cynnig ystod o Gynnyrch Rheoli Cyfeiriadau. I ganfod mwy am y rhain gweler ein tudalen <a href="http://www.poweredbypaf.com/getting-started/find-a-ready-made-solution/">Cynnyrch Rheoli Cyfeiriadau</a> neu ffoniwch ni ar 0845 606 6854.</p></div>
+  <div title="Beth yw Cyfeiriadau Arallenw?" id="alias_addresses" class="rml-postcode-finder-overlay overlay display_none">
+  Mae'r cyfeiriadau yn cynnwys 'Arallenw' a allent adlewyrchu sut adnabwyd yr eiddo'n hanesyddol  neu sy'n cynnwys enw tŷ, lleoledd neu Gwybodaeth Sirol na sydd angen ar gyfer pwrpasau post. Fodd bynnag, gallwch ddewis defnyddio unrhyw fersiwn o'r cyfeiriad sydd well gennoch lle ddengys mwy nag un opsiwn.</div>
+  
+<div class="rml-postcode-finder-help-box">
+  <div class="padding20 color-white">
+    <h2>Sut mae’n gweithio</h2>
+
+          <span class="help-box-text one">Wrth i chi deipio, byddwn yn awgrymu cydweddiadau</span>
+    
+          <span class="help-box-text two">Bydd gwybodaeth ddefnyddiol yn eich helpu ar hyd y ffordd</span>
+    
+          <span class="help-box-text three">Cliciwch i weld y cyfeiriad llawn</span>
+    
+    <img src="/sites/default/files/helpbox_cy.jpg" alt="Gwybodaeth ynghylch sut mae’r Canfyddwr Côd Post yn gweithio" width="580" height="345">  </div>
+</div>
+
+  <div class="rml-postcode-finder-result display_none">
+  <div class="envelope">
+        <div class="address">
+    </div>
+    <div class="pricefinder">
+      <a href="..\price-finder.html">Canfod pris postio</a>    </div>
+    <div class="buttons color-white padding20">
+      <a href="/cy/find-a-postcode/nojs/mail" class="ctools-use-modal secondary margin10l email-link" title="Ei ebostio">Ei ebostio</a>      <a href="https://www.royalmail.com/discounts-payment/online-postage/create" class="primary btn_big right" id="buy-and-print-postage">Prynu ac argraffu tâl postio</a>    </div>
+  </div>
+  <p class="rml-postcode-finder-map-link display_none">
+    <a href="/cy" id="map-link" class="open-control">Gweld y cyfeiriad hwn ar fap</a>  </p>
+  <p id="map-not-available-message" class="map-not-available-message display_none">
+    Nid yw'r lleoliad cyfeiriad ar gael ar hyn o bryd ar gyfer y cyfeiriad newydd hwn a bydd yn cael ei arddangos unwaith y caiff ein mapiau eu diweddaru. Cofiwch fod ein mapiau ddim yn arddangos lleoliadau BFPO.  </p>
+  <div class="rml-postcode-finder-bing-map display_none">
+    <div id="postcodefinder-map" class="bing-maps"></div>  </div>
+  <p class="enquiry-link">Wedi canfod problem gyda'r cyfeiriad hwn? <a href="/cy/find-a-postcode/nojs/enquiry" class="ctools-use-modal " title="Rhowch wybod i ni">Rhowch wybod i ni</a></p>
+</div>
+
+  <!-- Tealium data -->
+  <div id="tealiumdata" class="display_none">
+    <span class="postcode"></span>
+    <span class="remaining-searches"></span>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-login-register-dialog">
+  
+  
+  
+  <div class="pane-content login_register_dialog">
+    <form action="/cy/find-a-postcode" accept-charset="UTF-8" method="post" id="login-register-dialog-form" class="register-signin-panel-block" title="Cadw yn eich llyfr cyfeiriadau y Post Brenhinol">
+<div>
+
+  <div class="greeting margin20b">Os bydd ei angen arnoch eto, cadwch y cyfeiriad er mwyn cyfeirio ato'n gyflym.</div><div class="clearboth"></div>
+  <div class="signin">
+    <div id="signin_panel"><h3>Eisoes wedi cofrestru?</h3>Mewngofnodwch os oes gennych gyfrif y Post Brenhinol yn barod.<div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Cyfeiriad Ebost</label>
+ <input type="text" maxlength="128" name="name" id="edit-name" size="30" value="" class="form-text">
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Cyfrinair</label>
+ <input type="password" name="pass" id="edit-pass" maxlength="128" size="30" class="form-text">
+</div>
+<input type="submit" name="op" id="edit-signin-submit" value="Mewngofnodi" class="form-submit primary btn_big right ctools-use-ajax">
+</div>  </div>
+
+  <div class="register">
+    <div><h3>Newydd i royalmail.com?</h3><p>Pam cofrestru gyda ni?</p>
+              <ul class="bullet">
+                <li>Mae'n haws prynu tâl postio ar-lein</li>
+                <li>Gallwch gadw cyfeiriadau a ddefnyddir yn aml</li>
+                <li>Bydd gennych lai o ffurflenni i'w llenwi</li>
+              </ul><input type="submit" name="op_register" id="edit-register-submit" value="Cofrestru" class="form-submit secondary btn_big right">
+</div>  </div>
+
+<input type="hidden" name="data" id="edit-data" value="">
+<input type="hidden" name="form_build_id" id="form-bf8de6c79378c903da7818eede7a2cfd" value="form-bf8de6c79378c903da7818eede7a2cfd">
+<input type="hidden" name="form_id" id="edit-login-register-dialog-form" value="login_register_dialog_form">
+
+</div></form>
+  </div>
+
+  
+  </div>
+  
+  
+  
+      <div class="panel-pane pane-node node 29909753">
+  
+  
+  
+  <div class="pane-content page">
+    <div class="grid_4">
+  <div class=" node node-29909753 node-page">
+    <div class="content">
+      <div class="padding20 color-white">
+        <h2>
+	Angen mwy o help? Ffoniwch ni</h2>
+<table class="ckeborder postcode-finder-numbers" style="width: 100%;">
+	<thead>
+		<tr>
+			<th scope="col">
+				Pryd i ffonio</th>
+			<th scope="col">
+				Dyma&rsquo;r rhif</th>
+			<th scope="col">
+				Beth yw&rsquo;r gost</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Dydd Llun i Ddydd Gwener 8am i 4pm</td>
+			<td>
+				0906 302 1222</td>
+			<td>
+				Codir 51c y funud</td>
+		</tr>
+		<tr>
+			<td>
+				Dydd Llun i Ddydd Gwener 4pm i 6pm</td>
+			<td>
+				0845 7111 222</td>
+			<td>
+				Codir cyfraddau lo-call am yr alwad</td>
+		</tr>
+		<tr>
+			<td>
+				Dydd Sadwrn 8am i 1pm</td>
+			<td>
+				0845 7111 222</td>
+			<td>
+				Codir cyfraddau lo-call am yr alwad</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+<p class="text-color-grey-darker">
+	Nid yw&rsquo;r gwasanaeth hwn ar gael ar ddydd Sul na gwyliau banc. Os na allwch gysylltu, gallai hyn fod am fod eich ff&ocirc;n wedi ei gwahardd rhag ffonio rhifau 090. Cysylltwch &acirc; darparwr eich gwasanaeth i ofyn i&rsquo;r gwaharddiad hwn gael ei godi.</p>
+                                                      </div>
+                              </div>
+  </div>
+  <div class="clearboth">&nbsp;</div>
+</div>
+  </div>
+
+  
+  </div>
+  
+  
+  <div class="clearboth"></div>
+</div>
+
+<div class="rightsidebar left" role="complementary">
+  <div class="panel-pane">
+  <div class="pane-content">
+    <div class="kb-restricted-widget color-white tips-contextual collapsible">
+      <div class="content padding12t20b0 margin20b">
+                  <h2 class="header margin10b pane-title">Need help?</h2>
+                          <div class="kb-widget-main">
+  <noscript>
+    <div class="kb-widget-no-js">
+      <div class="padding20tb kbsw_restricted">Please turn JavaScript on to use our Help Centre</div>
+    </div>
+  </noscript>
+  <div id="kb-widget" class="kbsw_restricted personal body-content"></div>
+</div>
+              </div>
+    </div>
+  </div>
+</div><div class="panel-pane pane-node node 29909755">
+  
+  
+  
+  <div class="pane-content component">
+    <div class="node-29909755  node node-29909755 node-component tips-contextual node-faq_collection color-white collapsible">
+  <div class="content padding12t20b0 margin20b">
+          <h2 class="header margin10b">Gwybodaeth ychwanegol</h2>
+              <div class="item-list body-content bordert-dotted padding5b">
+                <ul>
+                      <li><a href="..\sites\default\files\PAF-Code-of-Practice-211118.pdf" target="_blank">Côd Ymarfer PAF</a></li>
+                      <li><a href="/cy/postcode-finder-term-conditions-cy">Telerau ac amodau PAF</a></li>
+                  </ul>
+      </div>
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-rml-postcode-ad-placeholder">
+  
+  
+  
+  <div class="pane-content rml_postcode_ad_placeholder">
+    <div id="rml-postcodefinder-ad-1"></div>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-node node 29909757">
+  
+  
+  
+  <div class="pane-content component">
+    <div class="node-29909757  node node-29909757 node-component tips-contextual node-faq_collection color-white collapsible">
+  <div class="content padding12t20b0 margin20b">
+          <h2 class="header margin10b">Gwasanaethau mwy defnyddiol</h2>
+              <div class="item-list body-content bordert-dotted padding5b">
+                <ul>
+                      <li><a href="http://www.royalmail.com/personal/receiving-mail/redelivery">Trefnu Ailddosbarthu</a></li>
+                      <li><a href="https://parcel.royalmail.com/" target="_blank">Prynu tâl postio ar-lein</a></li>
+                      <li><a href="http://www.royalmail.com/price-finder">Cael pris</a></li>
+                  </ul>
+      </div>
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+    </div>
+<div class="clearboth"></div>
+
+</div>
+
+        
+        </div>
+        <div class="clearboth"></div>
+
+              </div>
+    </div>
+  </div>
+
+  <footer class="l-footer page-footer">
+    <div class="l-footer__main">
+      <div class="l-footer__container">
+        <div class="l-footer__links page-footer__links">
+          <div class=" block block-menu">
+    <h2>Help and info</h2>
+  
+  <ul class="menu"><li class="leaf first"><a href="http://personal.help.royalmail.com/" class="mobile-hide">Help &amp; support</a></li>
+<li class="leaf"><a href="https://personal.help.royalmail.com/app/contact">Contact us</a></li>
+<li class="leaf"><a href="..\terms-and-conditions.html">Terms &amp; conditions</a></li>
+<li class="leaf"><a href="..\privacy-notice.html">Privacy Notice</a></li>
+<li class="leaf"><a href="..\index-1.htm?stop_mobi=yes&amp;ref=stop_mobile" class="mobile-only">Go to desktop site</a></li>
+<li class="leaf"><a href="..\cookies-policy.html" class="mobile-hide">Cookies policy</a></li>
+<li class="leaf"><a href="..\terms-website.html" class="mobile-hide">Terms of use</a></li>
+<li class="leaf last"><a href="https://www.royalmailgroup.com/en/site/accessibility/" class="mobile-hide" target="_blank">Accessibility</a></li>
+</ul>
+</div>
+<div class=" block block-menu">
+    <h2>Our other websites</h2>
+  
+  <ul class="menu"><li class="leaf first"><a href="http://www.royalmailgroup.com/" target="_blank">Royal Mail Group</a></li>
+<li class="leaf last"><a href="http://www.parcelforce.com/" target="_blank">Parcelforce Worldwide</a></li>
+</ul>
+</div>
+<div class=" block block-menu">
+    <h2>About us</h2>
+  
+  <ul class="menu"><li class="leaf first"><a href="http://www.myroyalmail.com/">I&#039;m an employee</a></li>
+<li class="leaf"><a href="http://www.myroyalmail.com/charitypartner" target="_blank">Supporting Action for Children</a></li>
+<li class="leaf last"><a href="http://www.royalmailgroup.com/financial-and-media-media-centre/finance-media-press-releases" target="_blank">Latest news</a></li>
+</ul>
+</div>
+<div class=" block block-menu">
+    <h2>Our partners</h2>
+  
+  <ul class="menu"><li class="leaf first"><a href="..\business\tools-services\retail-sell-stamps.html">Stamp retailers</a></li>
+<li class="leaf last"><a href="http://www.keepmeposteduk.com/" target="_blank" class="keep-me-posted">Keep Me Posted</a></li>
+</ul>
+</div>
+        </div>
+        <div class="l-footer__social page-footer__social">
+          <div class="page-footer__social-link page-footer__social-link--linkedin">
+            <a href="http://www.linkedin.com/company/5263?trk=tyah" class="icon-rmg-social-linkedin" aria-label="Royal Mail on Linkedin"></a>
+          </div>
+          <div class="page-footer__social-link page-footer__social-link--facebook">
+            <a href="https://www.facebook.com/RoyalMail" class="icon-rmg-social-facebook" aria-label="Royal Mail on Facebook"></a>
+          </div>
+          <div class="page-footer__social-link page-footer__social-link--twitter">
+            <a href="http://www.twitter.com/royalmail" class="icon-rmg-social-twitter" aria-label="@royalmail on Twitter"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="l-footer__bottom">
+      <div class="l-footer__container page-footer__bottom">
+        <div class=" block block-menu menu-footer-bottom-links">
+  
+  <ul class="menu"><li class="leaf first"><a href="http://www.royalmailgroup.com/our-people" target="_blank">Jobs</a></li>
+<li class="leaf"><a href="..\atoz.html">A-Z of services</a></li>
+<li class="leaf"><a href="..\user\login-1.html">Mailing tools</a></li>
+<li class="leaf"><a href="..\site-map.html">Sitemap</a></li>
+<li class="leaf last"><a href="..\cymraeg.html">Cymraeg</a></li>
+</ul>
+</div>
+      </div>
+    </div>
+  </footer>
+
+    <div style="display: none"><div id="block-cookie_policy-popup" class="block block-cookie_policy-popup">
+    </div>
+</div>  <!-- SiteCatalyst code version: H.24.4.Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com
+NOTE: Only Site Catalyst variables were rendered. Not reporting data to Site Catalyst -->
+
+<script type="text/javascript" language="JavaScript"><!--
+      s.linkInternalFilters = "javascript:,royalmail.com"
+    s.cookieDomainPeriods = "2"
+      s.applicationURI=""
+    s.events="event8"
+    s.products=""
+    s.purchaseID=""
+    s.applicationName=""
+    s.applicationScreen=""
+    s.cookieDomainPeriods="2"
+    s.linkInternalFilters="javascript:,royalmail.com"
+    s.prop14=""
+    s.prop15=""
+    s.prop16=""
+    s.prop17=""
+    s.campaign=""
+    s.eVar17=""
+    s.eVar16=""
+    s.prop9=""
+    s.eVar1=""
+    s.server="www.royalmail.com"
+    s.pageName="RM "
+    s.eVar41="RM "
+    s.prop41="RM "
+    s.prop11=""
+    s.prop12=""
+    s.prop13=""
+    s.prop18=""
+    s.prop19=""
+    s.prop20=""
+    s.prop21="personal"
+    s.prop7=""
+    s.prop8=""
+    s.eVar21="personal"
+
+//--></script>
+
+<!-- End SiteCatalyst code version: H.24.4. -->
+
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.3\/jquery.min.js":true,"\/misc\/drupal.js":true,"\/sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/ui\/minified\/ui.core.min.js":true,"\/sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/ui\/minified\/ui.dialog.min.js":true,"\/sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/ui\/minified\/ui.draggable.min.js":true,"\/sites\/all\/modules\/contrib\/modalframe\/js\/parent.js":true,"\/sites\/all\/modules\/contrib\/automodal\/automodal.js":true,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus.js":true,"\/sites\/all\/modules\/contrib\/panels\/js\/panels.js":true,"\/sites\/all\/modules\/custom\/cookie_policy\/js\/cookie_policy_h.js":true,"\/sites\/all\/modules\/custom\/redesign\/rml_eps\/js\/eps.js":true,"\/sites\/all\/modules\/custom\/rmg_help\/js\/rmg_help.js":true,"\/sites\/all\/modules\/site_features\/rmlr_promo\/rmlr_promo.js":true,"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.form.js":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/modal.js":true,"\/sites\/all\/modules\/contrib\/jquery_plugin\/jquery.cookie.min.js":true,"\/sites\/all\/modules\/custom\/capture_plus\/js\/capture_plus.js":true,"\/sites\/all\/modules\/custom\/node_locale_messages\/js\/nlt.js":true,"\/sites\/all\/modules\/custom\/rml_postcode_finder\/js\/rml_postcode_finder_overlay.js":true,"\/sites\/all\/modules\/custom\/bing_maps\/js\/bing_maps.js":true,"\/sites\/all\/modules\/custom\/rml_postcode_finder\/js\/rml_postcode_finder_capture_plus.js":true,"\/sites\/all\/modules\/custom\/rml_postcode_finder\/js\/json2.min.js":true,"\/sites\/all\/modules\/custom\/rml_content_service\/js\/content_overlay.js":true,"\/sites\/all\/modules\/custom\/common_block_register_signin\/js\/login_register_dialog.js":true,"\/sites\/all\/modules\/shared\/knowledge_base\/js\/sw-instance.js":true,"\/sites\/all\/modules\/custom\/responsive\/rml_resp_account_block\/js\/account_block.js":true,"\/sites\/all\/modules\/custom\/rml_login\/js\/rml_login.js":true,"\/sites\/all\/modules\/custom\/rml_persona\/rml_persona.js":true},"css":{"\/modules\/book\/book.css":true,"\/modules\/node\/node.css":true,"\/modules\/system\/defaults.css":true,"\/modules\/system\/system.css":true,"\/modules\/system\/system-menus.css":true,"\/modules\/user\/user.css":true,"\/sites\/all\/modules\/contrib\/attribute\/attribute.css":true,"\/sites\/all\/modules\/contrib\/modalframe\/css\/modalframe.parent.css":true,"\/sites\/all\/modules\/contrib\/cck\/theme\/content-module.css":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":true,"\/sites\/all\/modules\/contrib\/date\/date.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/jquery.timeentry.css":true,"\/sites\/all\/modules\/contrib\/filefield\/filefield.css":true,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus.css":true,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus_default.css":true,"\/sites\/all\/modules\/contrib\/panels\/css\/panels.css":true,"\/sites\/all\/modules\/contrib\/rate\/rate.css":true,"\/sites\/all\/modules\/contrib\/twitter_pull\/twitter-pull-listing.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":true,"\/sites\/all\/modules\/custom\/rmg_help\/css\/rmg_help_layout.css":true,"\/sites\/all\/modules\/custom\/rmg_help\/css\/rmg_help_style.css":true,"\/sites\/all\/modules\/contrib\/cck\/modules\/fieldgroup\/fieldgroup.css":true,"\/sites\/all\/modules\/contrib\/views\/css\/views.css":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/modal.css":true,"\/sites\/all\/modules\/custom\/bing_maps\/css\/bing_maps.css":true,"\/sites\/all\/modules\/custom\/rml_postcode_finder\/css\/rml_postcode_finder.css":true,"\/sites\/all\/modules\/custom\/common_block_register_signin\/css\/login_register_dialog.css":true,"\/sites\/all\/modules\/custom\/online_mail_supplies\/css\/oms.css":true,"\/sites\/all\/modules\/custom\/common_block_register_signin\/css\/common_block_register_signin.css":true,"\/sites\/all\/modules\/shared\/knowledge_base\/css\/knowledge_base_syndicated_widget.css":true,"\/sites\/all\/modules\/custom\/rml_login\/css\/rml_login.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/modules\/ckeditor.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/modules\/pricefinder.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/modules\/ftn.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/jquery-ui\/jquery-ui-1.7.3.custom.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Reset.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Color.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Typography.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Common.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Link.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Layout.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Global.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/home.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Menu.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Form.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Component.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Table.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/admin.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/apps.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/royalmail2017.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Print.css":true}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"CToolsAJAX":{"css":{"\/modules\/book\/book.css":true,"\/modules\/node\/node.css":true,"\/modules\/system\/defaults.css":true,"\/modules\/system\/system.css":true,"\/modules\/system\/system-menus.css":true,"\/modules\/user\/user.css":true,"\/sites\/all\/modules\/contrib\/attribute\/attribute.css":true,"\/sites\/all\/modules\/contrib\/modalframe\/css\/modalframe.parent.css":true,"\/sites\/all\/modules\/contrib\/cck\/theme\/content-module.css":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":true,"\/sites\/all\/modules\/contrib\/date\/date.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/jquery.timeentry.css":true,"\/sites\/all\/modules\/contrib\/filefield\/filefield.css":true,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus.css":true,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus_default.css":true,"\/sites\/all\/modules\/contrib\/panels\/css\/panels.css":true,"\/sites\/all\/modules\/contrib\/rate\/rate.css":true,"\/sites\/all\/modules\/contrib\/twitter_pull\/twitter-pull-listing.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":true,"\/sites\/all\/modules\/custom\/rmg_help\/css\/rmg_help_layout.css":true,"\/sites\/all\/modules\/custom\/rmg_help\/css\/rmg_help_style.css":true,"\/sites\/all\/modules\/contrib\/cck\/modules\/fieldgroup\/fieldgroup.css":true,"\/sites\/all\/modules\/contrib\/views\/css\/views.css":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/modal.css":true,"\/sites\/all\/modules\/custom\/bing_maps\/css\/bing_maps.css":true,"\/sites\/all\/modules\/custom\/rml_postcode_finder\/css\/rml_postcode_finder.css":true,"\/sites\/all\/modules\/custom\/common_block_register_signin\/css\/login_register_dialog.css":true,"\/sites\/all\/modules\/custom\/online_mail_supplies\/css\/oms.css":true,"\/sites\/all\/modules\/custom\/common_block_register_signin\/css\/common_block_register_signin.css":true,"\/sites\/all\/modules\/shared\/knowledge_base\/css\/knowledge_base_syndicated_widget.css":true,"\/sites\/all\/modules\/custom\/rml_login\/css\/rml_login.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/modules\/ckeditor.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/modules\/pricefinder.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/modules\/ftn.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/jquery-ui\/jquery-ui-1.7.3.custom.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Reset.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Color.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Typography.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Common.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Link.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Layout.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Global.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/home.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Menu.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Form.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Component.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Table.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/admin.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/apps.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/royalmail2017.css":true,"\/sites\/all\/themes\/royalmail2017\/css\/Print.css":true},"scripts":{"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.3\/jquery.min.js":true,"\/misc\/drupal.js":true,"\/sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/ui\/minified\/ui.core.min.js":true,"\/sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/ui\/minified\/ui.dialog.min.js":true,"\/sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/ui\/minified\/ui.draggable.min.js":true,"\/sites\/all\/modules\/contrib\/modalframe\/js\/parent.js":true,"\/sites\/all\/modules\/contrib\/automodal\/automodal.js":true,"\/sites\/all\/modules\/contrib\/nice_menus\/nice_menus.js":true,"\/sites\/all\/modules\/contrib\/panels\/js\/panels.js":true,"\/sites\/all\/modules\/custom\/cookie_policy\/js\/cookie_policy_h.js":true,"\/sites\/all\/modules\/custom\/redesign\/rml_eps\/js\/eps.js":true,"\/sites\/all\/modules\/custom\/rmg_help\/js\/rmg_help.js":true,"\/sites\/all\/modules\/site_features\/rmlr_promo\/rmlr_promo.js":true,"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.form.js":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/modal.js":true,"\/sites\/all\/modules\/contrib\/jquery_plugin\/jquery.cookie.min.js":true,"\/sites\/all\/modules\/custom\/capture_plus\/js\/capture_plus.js":true,"\/sites\/all\/modules\/custom\/node_locale_messages\/js\/nlt.js":true,"\/sites\/all\/modules\/custom\/rml_postcode_finder\/js\/rml_postcode_finder_overlay.js":true,"\/sites\/all\/modules\/custom\/bing_maps\/js\/bing_maps.js":true,"\/sites\/all\/modules\/custom\/rml_postcode_finder\/js\/rml_postcode_finder_capture_plus.js":true,"\/sites\/all\/modules\/custom\/rml_postcode_finder\/js\/json2.min.js":true,"\/sites\/all\/modules\/custom\/rml_content_service\/js\/content_overlay.js":true,"\/sites\/all\/modules\/custom\/common_block_register_signin\/js\/login_register_dialog.js":true,"\/sites\/all\/modules\/shared\/knowledge_base\/js\/sw-instance.js":true,"\/sites\/all\/modules\/custom\/responsive\/rml_resp_account_block\/js\/account_block.js":true,"\/sites\/all\/modules\/custom\/rml_login\/js\/rml_login.js":true,"\/sites\/all\/modules\/custom\/rml_persona\/rml_persona.js":true}}});
+//--><!]]>
+</script>
+</body>
+</html>
